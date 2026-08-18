@@ -1,0 +1,1406 @@
+,Company Common Name,RIC,ISIN,Organization PermID,Exchange Name,TRBC Economic Sector Name,TRBC Business Sector Name,Delisted Quote Flag
+0,UniCredit Bank GmbH,HVMG.F^I08,DE0008022005,5000048673,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+1,Lieken GmbH,KAMG.F^D04,DE0006280605,4295869499,Frankfurt Stock Exchange,Consumer Non-Cyclicals,Food & Beverages,True
+2,AS Creation Tapeten AG,ACWNn.F,DE000A1TNNN5,4295869436,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,False
+3,LUDWIG BECK am Rathauseck Textilhaus Feldmeier AG,ECKG.F,DE0005199905,4295869514,Frankfurt Stock Exchange,Consumer Cyclicals,Retailers,False
+4,Creaton GmbH,CRNG_p.F^I16,DE0005483036,4295869197,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+5,Winkler und Duennebier GmbH,WDBG.F^E10,DE0007790008,5037611441,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+6,Hawesko Holding SE,HAWG.F,DE0006042708,4295869475,Frankfurt Stock Exchange,Technology,Software & IT Services,False
+7,Gesco SE,GSC1n.F,DE000A1K0201,4295869462,Frankfurt Stock Exchange,Industrials,Industrial Goods,False
+8,QUANTE GmbH,QUAG_p.F^C06,DE0006975634,5000056963,Frankfurt Stock Exchange,,,True
+9,Sartorius AG,SATG_p.F,DE0007165631,4295868872,Frankfurt Stock Exchange,Healthcare,Healthcare Services & Equipment,False
+10,Sartorius AG,SATG.F,DE0007165607,4295868872,Frankfurt Stock Exchange,Healthcare,Healthcare Services & Equipment,False
+11,Ahlers AG,AAHG.F^G26,DE0005009740,4295868722,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+12,Moebel Walther AG,MWAG.F^I10,DE0006620909,4295869367,Frankfurt Stock Exchange,Consumer Cyclicals,Retailers,True
+13,Moebel Walther AG,MWAG_p.F^I10,DE0006620933,4295869367,Frankfurt Stock Exchange,Consumer Cyclicals,Retailers,True
+14,Bausch AG,BAHG.F^H00,DE0005175905,5000089829,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+15,Bau Verein zu Hamburg Immobilien GmbH,BVHG.F^K12,DE0005179006,5040703035,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+16,Ahlers AG,AAHG_p.F^G18,DE0005009732,4295868722,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+17,Jenoptik AG,JENGn.F,DE000A2NB601,4295869506,Frankfurt Stock Exchange,Technology,Technology Equipment,False
+18,Doerries Scharmann Technologie GmbH,SISG.F^L98,DE0007302002,4297851847,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+19,Rabobank Deutschland GmbH & Co KG,ACAG.F^G98,DE0008000001,4295870181,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+20,effeff Fritz Fuss GmbH & Co KGaA,FEFG.F^J04,DE0005650204,4295869166,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+21,CinemaxX AG,MXCG.F^B14,DE0005085708,4295869734,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,True
+22,Aurubis AG,NAFG.F,DE0006766504,4295869254,Frankfurt Stock Exchange,Basic Materials,Mineral Resources,False
+23,Deutsche Hypothekenbank Frankfurt AG,BHYG.F^H98,DE0008078007,4295868743,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+24,Strabag AG (Pre-Merger),STBG_p.F^L98,DE0007283038,4295868917,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+25,ElringKlinger AG,ZILGn.DE,DE0007856023,4295868805,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,False
+26,Hypothekenbank Frankfurt AG,EHYG.F^G08,DE0008076001,4295868660,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+27,Bijou Brigitte modische Accessoires AG,BIJG.DE,DE0005229504,4295869973,Xetra,Consumer Cyclicals,Retailers,False
+28,Mainova AG,MNVG.F,DE0006553464,4295869544,Frankfurt Stock Exchange,Utilities,Utilities,False
+29,EM TV & Merchandising AG,ETVG.F^D04,DE0005684807,5000639231,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,True
+30,MARBERT Holding AG,MBTGv.F^A13,DE000A0S84W0,4295869508,Frankfurt Stock Exchange,Consumer Non-Cyclicals,Personal & Household Products & Services,True
+31,Indus Holding AG,INHG.F,DE0006200108,4295869178,Frankfurt Stock Exchange,Consumer Non-Cyclicals,Consumer Goods Conglomerates,False
+32,IMW Immobilien AG,GARG.F^K04,DE0005853402,4295869985,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+33,Webac Holding AG,RKBG.F,DE0008103102,4295868793,Frankfurt Stock Exchange,Financials,Investment Holding Companies,False
+34,Maschinenfabrik Berthold Hermle AG,MBHG_p.F,DE0006052830,4295869008,Frankfurt Stock Exchange,Industrials,Industrial Goods,False
+35,Baader Bank AG,BLMG.F,DE0005088108,4295869161,Frankfurt Stock Exchange,Financials,Banking & Investment Services,False
+36,Kenvelo AG,PASGa.F^J08,DE0007471138,4295868852,Frankfurt Stock Exchange,Consumer Cyclicals,Retailers,True
+37,Krones AG,KRNG.F,DE0006335003,4295869981,Frankfurt Stock Exchange,Industrials,Industrial Goods,False
+38,Piper Deutschland AG,PIPG.F^J12,DE0006924202,4295868799,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+39,Tiptel AG,TIPT.F^F12,DE0007483604,4295869414,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+40,Pfeiffer Vacuum Technology AG,PV.F,DE0006916604,4295869265,Frankfurt Stock Exchange,Industrials,Industrial Goods,False
+41,WET Automotive Systems AG,WETG.F^K13,DE0005081608,4295869533,Frankfurt Stock Exchange,Consumer Cyclicals,Automobiles & Auto Parts,True
+42,CENIT AG,CSHG.F,DE0005407100,4295869467,Frankfurt Stock Exchange,Technology,Software & IT Services,False
+43,ALBA SE,ABAG.F^K24,DE0006209901,4295869714,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+44,Informatec Integrated Information Systems AG,IFOG.F^D13,DE0006222003,4295869703,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+45,ais AG,LUMG.F,DE0006492903,4295869177,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,False
+46,Mhm Mode Holding AG,MHMGn.F^F02,DE0006620248,4295869396,Frankfurt Stock Exchange,,,True
+47,Rinol AG,RILGk.DE^E11,DE000A0HN404,4295869250,Xetra,Industrials,Industrial & Commercial Services,True
+48,Koegel Fahrzeugwerke AG,KFZG_p.F^B12,DE0006300734,4295869348,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+49,United Internet AG,UTDI.F,DE0005089031,4295869278,Frankfurt Stock Exchange,Technology,Telecommunications Services,False
+50,Allbecon AG,ABXG.F^E07,DE0005086003,5000057948,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+51,Steffen AG,SFFG_p.F^D00,DE0007257339,4295869441,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+52,Eisen und Huettenwerke AG,EISG.F,DE0005658009,4295870002,Frankfurt Stock Exchange,Financials,Banking & Investment Services,False
+53,Einhell Germany AG,EIN_p.F,DE000A40ESU3,4295868778,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,False
+54,Kinowelt Medien AG,KNMG.F^K08,DE0006285901,4295869493,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,True
+55,euromicron AG,EUCG.F^H11,DE0005660005,4295869691,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+56,Howden Turbo GmbH,KKKG.F^F06,DE0005027700,4298172876,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+57,Greenwich Beteiligungen AG,PEBGa.F^L99,DE0006904790,4295869408,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+58,Elektra Beckum AG,FBEG.F^G99,DE0005667299,4295870115,,Industrials,Industrial Goods,True
+59,Koepp Schaum GmbH,KPPG.F^B01,DE0006302805,4295868782,Frankfurt Stock Exchange,Basic Materials,Chemicals,True
+60,Micrologica AG,MLGG.F^E11,DE0006623002,4295869702,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+61,Draegerwerk AG & Co KGaA,DRWG_p.F,DE0005550636,4295869101,Frankfurt Stock Exchange,Healthcare,Healthcare Services & Equipment,False
+62,Schweizer Electronic AG,SCEG.F^D01,DE0007222705,4295869346,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+63,Lindner Holding KGaA,LNDG.F^G05,DE0006487200,4295869345,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+64,Heyde AG,HEYG.F^G11,DE0006026701,4295869690,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+65,Fritz Nols AG,FNGG.F^L23,DE0005070908,4295869705,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+66,Moninger Holding AG,BMOG.F^C19,DE0005247308,4295869774,Frankfurt Stock Exchange,Consumer Non-Cyclicals,Food & Beverages,True
+67,Brokat Technologies AG,BRJG.F^G03,DE0005221907,4295869713,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+68,InnoTec TSS AG,TSSG.DE^L03,DE0005405104,4295868830,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+69,MCS Modulare Computer und Software Systeme AG,MCOG.F^L12,DE0006582802,4295868848,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+70,PSI Software SE,PSAGn.F,DE000A0Z1JH9,4295869696,Frankfurt Stock Exchange,Technology,Software & IT Services,False
+71,Howden Turbo GmbH,KKKG_p.F^F06,DE0005027734,4298172876,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+72,Mensch und Maschine Software SE,MUMG.F,DE0006580806,5000071466,Frankfurt Stock Exchange,Technology,Software & IT Services,False
+73,Bertrandt AG,BDTG.F,DE0005232805,4295869269,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,False
+74,1&1 AG,1U1.F,DE0005545503,4295869472,Frankfurt Stock Exchange,Technology,Telecommunications Services,False
+75,Stixi AG,STXG_p.F^F99,DE0007345332,4295868757,Frankfurt Stock Exchange,,,True
+76,Vattenfall Europe AG,VTTG.F^D08,DE0006012008,4295870331,Frankfurt Stock Exchange,Utilities,Utilities,True
+77,H&R GmbH & Co KgaA,2HR.DE,DE000A2E4T77,5052135102,Xetra,Basic Materials,Chemicals,False
+78,Kih Kommunikations Industrie Holding AG,KIHG.F^C00,DE0006921703,4295868859,Frankfurt Stock Exchange,,,True
+79,Simona AG,SIM0.F,DE000A3E5CP0,4295868864,Frankfurt Stock Exchange,Basic Materials,Chemicals,False
+80,SCHLEICHER & Co INTERNATIONAL AG,SCLG.F^J03,DE0007175101,5035558577,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+81,Refugium Holding AG,REFG.F^C08,DE0007007106,4295869267,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+82,Fujitsu TDS GmbH,TDSG.F^F12,DE0005085609,5050718232,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+83,Rolf Benz AG & Co KG,RBAG_p.F^J00,DE0005203731,4295869368,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+84,Concord Investmentbank AG,CCFG.F^L12,DE0005410203,4295869466,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+85,Mdb AG,MDBG.F^A05,DE0006583107,4295869391,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+86,P-D Interglas Technologies GmbH,ITEG.F^K06,DE0006210016,5000593371,Frankfurt Stock Exchange,Basic Materials,Chemicals,True
+87,Arzneiwerk VIDA AG,TLIK.F,DE000A289B07,4295869715,Frankfurt Stock Exchange,Technology,Telecommunications Services,False
+88,Schwaelbchen Molkerei Jakob Berz AG,SMBG.F,DE0007218901,4295868877,Frankfurt Stock Exchange,Consumer Non-Cyclicals,Food & Beverages,False
+89,Curtis 1000 Europe AG,CEUG.F^A11,DE0005431001,4295869921,Frankfurt Stock Exchange,Basic Materials,Applied Resources,True
+90,CashLife AG(pre-merger),SGSG.F^K12,DE0005009104,4295868842,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+91,Sachsenring Automobiltechnik AG,SRGG.F^G08,DE0007162208,4295869266,Frankfurt Stock Exchange,Consumer Cyclicals,Automobiles & Auto Parts,True
+92,Sonae Arauco Deutschland GmbH,GLUG.F^C06,DE0005887202,4295868697,Frankfurt Stock Exchange,Basic Materials,Applied Resources,True
+93,CashLife AG(pre-merger),ADVG_pa.F^L99,DE0005009138,4295868842,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+94,mobilcom AG,MOBG.F^C07,DE0006622400,4297824039,Frankfurt Stock Exchange,Technology,Telecommunications Services,True
+95,Meta Wolf AG,WOLFG.F,DE000A254203,4295869273,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,False
+96,WASGAU Produktions & Handels AG,MSHGn.F,DE0007016008,4295869431,Frankfurt Stock Exchange,Consumer Non-Cyclicals,Food & Drug Retailing,False
+97,MISTRAL Media AG,SPZN.F^K15,DE000A1PHC13,4295869688,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+98,technotrans SE,TTRGn.F,DE000A0XYGA7,5064620654,Frankfurt Stock Exchange,Industrials,Industrial Goods,False
+99,Augusta Technologie AG,ABEG.F^E05,DE0005088603,4295869446,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+100,Robert Cordier AG,CODG.F^A09,DE0005452403,4295869375,Frankfurt Stock Exchange,Basic Materials,Applied Resources,True
+101,RM Rheiner Management AG,RMOG.F^L14,DE0007018707,5000669624,Frankfurt Stock Exchange,Financials,Investment Holding Companies,True
+102,BUS Berzelius Umwelt Service AG,BUSG_p.F^F03,DE0005285738,4295868866,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+103,CompuGroup Medical SE & Co KgaA,COPM_p.F^G00,DE0005437339,5050307430,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+104,Greenwich Beteiligungen AG,PEBG_pa.F^L99,DE0006904774,4295869408,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+105,ATB Welzheim GmbH,ATBG.F^G03,DE0005051601,4295869361,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+106,Wuensche AG,WUNG.F^C07,DE0007798100,4295870282,Frankfurt Stock Exchange,Consumer Cyclicals,Retailers,True
+107,Graphit Kropfmuehl AG,GKRG.F^J12,DE0005896005,4295870270,Frankfurt Stock Exchange,Basic Materials,Mineral Resources,True
+108,Paris Corp,PBFI.PK^E03,US6995561064,4295907547,USA Pink Sheets,Industrials,Industrial & Commercial Services,True
+109,Elsa AG,ELSG.F^G10,DE0005073605,4295869699,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+110,Carl Schenck AG,CSCG.F^I04,DE0007171704,4295869125,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+111,Singulus Technologies AG,SNGGk.F,DE000A1681X5,4295869268,Frankfurt Stock Exchange,Industrials,Industrial Goods,False
+112,Intershop Communications AG,ISHG.F^G05,DE0007472920,4295869718,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+113,Konrad Hornschuch AG,HOKG.F^L05,DE0006083900,4295868809,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+114,Gardena GmbH,GADG_p.F^A03,DE0005852032,4295869193,Frankfurt Stock Exchange,Financials,Investment Holding Companies,True
+115,Schaltbau Holding AG,SLTG.DE^L21,DE000A2NBTL2,4295869409,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,True
+116,Agfb AG Fuer Beteiligungen An Telekommunikationsunternehmen,ABTG.F^C01,DE0005008809,4295869438,Frankfurt Stock Exchange,,,True
+117,Aliaxis Deutschland GmbH,FKKG.F^J05,DE0005788509,4295869180,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+118,Beta Systems Software AG(Pre-Merger),BSSG.F^F25,DE000A2BPP88,4295869281,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+119,Uzin Utz SE,UZU.F,DE0007551509,4295869530,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,False
+120,Comarch AG,FTMGk.F^J12,DE000A1KRMR8,4295869712,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+121,BBS Kraftfahrzeugtechnik AG,BKTG_p.F^C21,DE0005196232,4295868779,Frankfurt Stock Exchange,Consumer Cyclicals,Automobiles & Auto Parts,True
+122,Sachsenmilch GmbH,SAHGk.F^L16,DE000A0DRXC4,4295869173,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+123,Hach AG,HAHG_p.F^A05,DE0006001738,4295868865,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+124,Muehlbauer Holding AG,MUBG.F,DE0006627201,5044009838,Frankfurt Stock Exchange,Technology,Technology Equipment,False
+125,infas Holding AG,IFS1.F,DE0006097108,4295869282,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,False
+126,Elbe BidCo GmbH,ECVG.F^B25,DE0006095003,5087114213,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+127,BUS Berzelius Umwelt Service AG,BUSG.F^F03,DE0005285704,4295868866,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+128,Berliner Effektengesellschaft AG,BEFG.F,DE0005221303,4295869463,Frankfurt Stock Exchange,Financials,Banking & Investment Services,False
+129,HPI AG,CEWGn.F^E06,DE0005082226,4295869729,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+130,Berliner Kindl Brauerei Aktiengesellschaft,BKBG.F^A03,DE0005221006,4295868750,Frankfurt Stock Exchange,Consumer Non-Cyclicals,Food & Beverages,True
+131,MAX Automation SE,MXHNn.F,DE000A2DA588,5062149042,Frankfurt Stock Exchange,Industrials,Industrial Goods,False
+132,Lintec Information Technologies AG,LICGk.F^F11,DE000A0TGJ71,4295869700,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+133,Tiag Tabbert Industrie AG,TIAG.F^C07,DE0007482606,4295869330,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+134,Kih Kommunikations Industrie Holding AG,KIHG_p.F^D00,DE0006921737,4295868859,Frankfurt Stock Exchange,,,True
+135,Metric Mobility Solutions AG,HWSAk.F^G20,DE000A1X3X66,4295869685,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+136,DEAG Deutsche Entertainment AG,LOUDG.F^D21,DE000A3E5DA0,4295869683,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,True
+137,R. STAHL AG,RSL2.F,DE000A1PHBB5,4295869515,Frankfurt Stock Exchange,Industrials,Industrial Goods,False
+138,Versandhandelabwicklungsgesellschaft in Neumuenster AG,OPPG.F^E04,DE0006864705,4295869974,Frankfurt Stock Exchange,Consumer Cyclicals,Retailers,True
+139,Ceyoniq AG,CEEG.F^A16,DE0005420004,4295869481,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+140,Autania AG Fuer Industriebeteiligungen,AUTG.DE^J08,DE0005078000,4295869357,Xetra,Financials,Banking & Investment Services,True
+141,Schaerf GmbH,SCBG_p.F^E01,DE0007169732,5035954507,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+142,Schoen & Cie AG,SCCG.F^G01,DE0007198897,4295868869,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+143,Triumph International AG,TRIG.F^B12,DE0007494908,4295868880,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+144,Apcoa Parking AG,APPG.F^J03,DE0005055503,4295869174,Frankfurt Stock Exchange,Industrials,Transportation,True
+145,JADO AG,JADG_p.F^I04,DE0006211931,4295869421,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+146,Teldafax AG,TFXG.F^I01,DE0007455107,4295869710,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+147,Kling Jelko Wertpapierhandelsbank AG,KJDG.F^J05,DE0006291404,5000007194,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+148,Cewe Stiftung & Co KGaA,CWCG.DE,DE0005403901,5040258563,Xetra,Industrials,Industrial & Commercial Services,False
+149,UniCredit Bank GmbH,BHWG.F^I98,DE0008020009,5000048673,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+150,Plenum AG,PLEGk.F^I09,DE000A161Z44,5040701011,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+151,VDN Vereinigte Deutsche Nickel-Werke AG,VDNG.F^G20,DE0006455009,4295868973,Frankfurt Stock Exchange,Consumer Non-Cyclicals,Consumer Goods Conglomerates,True
+152,SER Systems AG,SESG.F^H11,DE0007241903,4295869263,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+153,Roeder Zeltsysteme und Service GmbH,RZSG.F^G14,DE0007066003,4295870090,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+154,Aixtron SE,AIXGn.F,DE000A0WMPJ6,5001428570,Frankfurt Stock Exchange,Technology,Technology Equipment,False
+155,Sero Entsorgung AG,SROG.F^K14,DE0007230401,4295869188,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+156,Saltus Technology AG,SASG.F^L12,DE0007161002,4295869261,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+157,Mercedes-Benz Group AG,DAIGa.F^L98,DE0005500094,4295869694,Frankfurt Stock Exchange,Consumer Cyclicals,Automobiles & Auto Parts,True
+158,Daimler Benz AG,DAIG.F^L98,DE0005500003,4295869200,Frankfurt Stock Exchange,,,True
+159,BHS Tabletop AG (Pre-Merger),HULGa.F^I98,DE0006102098,4295869078,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+160,BHS Tabletop AG (Pre-Merger),BHSG.F^K20,DE0006102007,4295869078,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+161,Mercedes-Benz Group AG,MBGn.F,DE0007100000,4295869694,Frankfurt Stock Exchange,Consumer Cyclicals,Automobiles & Auto Parts,False
+162,CeoTronics Audio Video Data Communication AG,CEKG.F,DE0005407407,4295869731,Frankfurt Stock Exchange,Technology,Technology Equipment,False
+163,mb Software AG,MBSG.F^H12,DE0006583206,4295869693,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+164,B+S Banksysteme AG,DTDGk.F,DE0001262152,4295869704,Frankfurt Stock Exchange,Technology,Financial Technology (Fintech) & Infrastructure,False
+165,Alpiq Anlagentechnik GmbH,KAHG.F^C99,DE0006324106,4295932331,Frankfurt Stock Exchange,,,True
+166,NSI Asset AG,VMRGn.F^G04,DE0007605552,4295869753,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+167,Elanix Biotechnologies AG,ELNk.F^H23,DE000A0WMJQ4,5049103068,Frankfurt Stock Exchange,Healthcare,Pharmaceuticals & Medical Research,True
+168,Herzog TELECOM AG,HZTG.F^G09,DE0005777700,4295869686,Frankfurt Stock Exchange,Technology,Telecommunications Services,True
+169,NTT Com Security AG,AAGGn.F^L13,DE0005155030,4295869692,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+170,Ixos Software AG,IXSG.F^G05,DE0005061501,4295869706,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+171,Nomis Projekte AG,WAFG.F^H98,DE0007761108,4295869132,Frankfurt Stock Exchange,Basic Materials,Mineral Resources,True
+172,Tecis Holding AG,TESG.F^B03,DE0006211600,4295869726,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+173,LPKF Laser & Electronics SE,LPKG.F,DE0006450000,4295869721,Frankfurt Stock Exchange,Technology,Technology Equipment,False
+174,Korian Deutschland GmbH,BOHG.F^B15,DE0005240709,5050697139,Frankfurt Stock Exchange,Healthcare,Healthcare Services & Equipment,True
+175,OAR Consulting Aktiengesellschaft,OARG.DE^H07,DE0006870801,4295869717,Xetra,Technology,Software & IT Services,True
+176,PARIGROUP SE,CEVG.F^A21,DE0005407506,5073152582,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+177,Nomis Projekte AG,WAFGa.F^A00,DE0007761199,4295869132,Frankfurt Stock Exchange,Basic Materials,Mineral Resources,True
+178,PNE AG,PNEGn.F,DE000A0JBPG2,4295869742,Frankfurt Stock Exchange,Energy,Renewable Energy,False
+179,All for One Group SE,A1OS.F,DE0005110001,4295869716,Frankfurt Stock Exchange,Technology,Software & IT Services,False
+180,SQD.ai Strategies AG,IPOk.F,DE000A254294,4295870303,Frankfurt Stock Exchange,Financials,Banking & Investment Services,False
+181,Computec Media AG,CMDG.F^J13,DE0005441000,4295869723,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,True
+182,TDMi AG,ARXG.F^G20,DE0005098008,4295869629,Frankfurt Stock Exchange,Consumer Non-Cyclicals,Personal & Household Products & Services,True
+183,Lenovo Computer AG,MDNG.F^A25,DE0006605009,4295869749,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+184,Fortec Elektronik AG,FEVG.F,DE0005774103,4295869460,Frankfurt Stock Exchange,Technology,Technology Equipment,False
+185,Intertainment AG,ITMG.F,DE0006223605,4295869750,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,False
+186,Utimaco Safeware AG,UTIG.F^H12,DE0007572406,5040272219,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+187,Thyssen Industrie AG,RSTG.F^C99,DE0007033003,4295869192,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+188,CINEMEDIA FILM AG GEYER WERKE,CMWG.F^H14,DE0005433007,4295869748,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,True
+189,Wild Bunch AG,SENG.F^G04,DE0007224404,4295869751,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,True
+190,Pongs & Zahn AG,PUZG.F^K21,DE0006954001,4295868868,Frankfurt Stock Exchange,Basic Materials,Chemicals,True
+191,Vestcorp AG,VESGn.F^L12,DE000A0Z2334,5001230246,Frankfurt Stock Exchange,Financials,Investment Holding Companies,True
+192,PrimaCom AG,PRIG.F^K14,DE0006259104,4295869786,Frankfurt Stock Exchange,Technology,Telecommunications Services,True
+193,Neschen AG,NSNG.F^J23,DE0005021307,4295869758,Frankfurt Stock Exchange,Basic Materials,Applied Resources,True
+194,MorphoSys AG,MORG.F^H24,DE0006632003,4295869785,Frankfurt Stock Exchange,Healthcare,Pharmaceuticals & Medical Research,True
+195,MVV Energie AG,MVVGe.F^C00,DE0007255911,4295869756,Frankfurt Stock Exchange,Utilities,Utilities,True
+196,ANDRITZ Deutschland Holding GmbH,SCUG_p.F^F08,DE0007210635,4295869762,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+197,Fried Krupp Hoesch Krupp AG,FKHG.F^D99,DE0006335409,4295868949,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+198,Adtran Networks SE,ADVG.F,DE0005103006,5037659154,Frankfurt Stock Exchange,Technology,Technology Equipment,False
+199,Basler AG,BSLG.F,DE0005102008,4295869761,Frankfurt Stock Exchange,Technology,Technology Equipment,False
+200,Brain Abwicklungsgesellschaft AG,BNIG.F^F04,DE0005252506,4295869739,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+201,I Fao AG,FAOGn.F^L16,DE0006224520,4295869755,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+202,MyHammer Holding AG,MYRKk.F^H21,DE000A11QWW6,4295869759,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+203,Amadeus Fire AG,AMDG.F,DE0005093108,4295869738,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,False
+204,Nemetschek SE,NEKG.F,DE0006452907,5050710924,Frankfurt Stock Exchange,Technology,Software & IT Services,False
+205,JUMPtec Industrielle Computertechnik AG,JMPG.F^H02,DE0006090608,4295869757,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+206,Mobilcom Debitel AG,DBLG.F^E05,DE0005408009,4295869745,Frankfurt Stock Exchange,Technology,Telecommunications Services,True
+207,Eyemaxx Real Estate AG,BTCGk.F^J23,DE000A0V9L94,5035746080,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+208,Enapter AG,BUFG.DE^E11,DE000A255G02,5073085259,Xetra,Energy,Renewable Energy,True
+209,Vivanco Gruppe GmbH,VVAG.F^F06,DE0007602906,4295869765,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+210,Consors Discount Broker AG,CSOG.F^L02,DE0005427009,4295869789,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+211,Brain Force Financial Solutions AG,NSWG.F^F05,DE0006790009,4295869776,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+212,Edscha AG,EDHG.F^A04,DE0005633002,4295869769,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+213,TA Triumph-Adler GmbH,TWNG.F^J10,DE0007495004,5028044380,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+214,Odeon Film AG,ODEG.F^H21,DE0006853005,5001639014,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,True
+215,Realtech AG,RTCG.F,DE0007008906,4295869779,Frankfurt Stock Exchange,Technology,Software & IT Services,False
+216,Easy Software AG,ESYGn.F^B22,DE000A2YN991,4295869778,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+217,Prout AG,POUG.F^L04,DE0006943608,4295869825,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+218,Zapf Creation AG,ZPFKk.F^A15,DE000A2TSMZ8,4295869773,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+219,mwb Fairtrade Wertpapierhandelsbank AG,MWBG.F^F09,DE000A3EYLC7,4295869770,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+220,Ehlebracht AG,EHLG_p.F^I08,DE0005649131,4295868844,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+221,Brueder Mannesmann AG,BMMG.F,DE0005275507,4295869175,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,False
+222,Ehlebracht AG,EHLG.F^I15,DE0005649107,4295868844,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+223,11 88 0 Solutions AG,TGTAk.F,DE000A41YFQ4,5070763143,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,False
+224,Knorr Capital Partner AG,KCPGn.F^H08,DE0007686123,4295869800,Frankfurt Stock Exchange,Financials,Collective Investments,True
+225,Heinkel AG,HKLG.F^I04,DE0006059009,4295869775,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+226,CPU Softwarehouse AG,CPUGk.DE^H09,DE000A0WMPN8,4295869772,Xetra,Technology,Software & IT Services,True
+227,Software AG,SOWGn.F^B24,DE000A2GS401,4295869822,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+228,Tria IT Solutions AG,TSXGk.F^A15,DE000A0XYL53,4295869805,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+229,Gontard & MetallBank AG,GMBG.F^H14,DE0005890503,4295869802,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+230,Aap Implantate AG,AAQ1k.F,DE000A3H2101,4295869771,Frankfurt Stock Exchange,Healthcare,Healthcare Services & Equipment,False
+231,Deufol SE,DE1n.F^K15,DE000A40ET54,5038040999,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+232,SVC AG Schmidt Vogel Consulting,SVAG.F^J01,DE0007300303,5000029433,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+233,Elexis AG,EEXG.F^J14,DE0005085005,4295869794,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+234,Eurofins MWG Holding GmbH,NWUGk.F^H09,DE000A0EPUF5,4295869861,Frankfurt Stock Exchange,Healthcare,Pharmaceuticals & Medical Research,True
+235,Sino German United AG,SGUG.F,DE000SGU8886,5050701258,Frankfurt Stock Exchange,Consumer Non-Cyclicals,Food & Drug Retailing,False
+236,Infor Business Solutions AG,IFRGn.F^D08,DE0006225402,4295869793,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+237,Dr Scheller Cosmetics AG,DOSG.F^H07,DE0007201303,4295869781,Frankfurt Stock Exchange,Consumer Non-Cyclicals,Personal & Household Products & Services,True
+238,IDS Scheer AG,IDRG.F^L10,DE0006257009,4295869812,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+239,Erotik Abwicklungsgesellschaft AG,USE.F^F23,DE0007551400,5066538165,Frankfurt Stock Exchange,Consumer Cyclicals,Retailers,True
+240,VCL Film + Medien AG,VFMG.DE^C04,DE0005098503,4295869829,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+241,Hamatech AG,DVDG.F^C09,DE0007309007,4295869801,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+242,Eckert & Ziegler SE,EUZG.F,DE0005659700,4295869808,Frankfurt Stock Exchange,Healthcare,Healthcare Services & Equipment,False
+243,Edel SE & Co KgaA,EDLG.F,DE0005649503,5068320502,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,False
+244,artnet GmbH,AYDGn.F^H25,DE000A1K0375,4295869834,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,True
+245,SUSS MicroTec SE,SMHNn.F,DE000A1K0235,5059054061,Frankfurt Stock Exchange,Technology,Technology Equipment,False
+246,SHS Viveon AG,SHSGk.F^G24,DE000A0XFWK2,4295869815,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+247,Koehler & Krenzer Fashion AG,KKFG.DE^E11,DE0006303407,4295869806,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+248,Ahag Wertpapierhandelsbank AG,AHHG.DE^G10,DE0005013304,4295869880,Xetra,Financials,Banking & Investment Services,True
+249,Kleindienst Datentechnik AG,KLDG.F^I05,DE0006290208,4295869830,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+250,Alzchem Group AG,SFPG.F^H04,DE0007271702,4295869849,Frankfurt Stock Exchange,Basic Materials,Chemicals,True
+251,Abwicklungsgesellschaft Innovativ digitale Medien AG,IDLGk.F^I10,DE000A0L1NK1,4295869841,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,True
+252,Isra Vision Parsytec AG,PAQG.F^F11,DE000A0JQ4J9,4295869845,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+253,Cor AG Financial Technologies,COCG.F^J09,DE0005083208,4295869725,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+254,Lobster Network Storage AG,LOBG.F^J07,DE0005082903,4295869510,Frankfurt Stock Exchange,Financials,Collective Investments,True
+255,Netlife AG,NTFG.F^E11,DE0006763907,4295869838,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+256,Infront Financial Technology GmbH,VWDG.F^E14,DE0005204705,5001158672,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+257,Euromed AG,EUDG.F^D11,DE0005706808,5000331537,Frankfurt Stock Exchange,Healthcare,Healthcare Services & Equipment,True
+258,PVA TePla AG,TPEG.F,DE0007461006,4295869846,Frankfurt Stock Exchange,Technology,Technology Equipment,False
+259,Prodacta AG,POAG.F^K13,DE0007867301,4295869811,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+260,Your Family Entertainment AG,RTVG.F^I02,DE0007060204,4295869826,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,True
+261,DB Mobility Logistics AG,SNSG.F^E03,DE0007264301,4295869121,Frankfurt Stock Exchange,Industrials,Transportation,True
+262,Management Data Media Systems AG,MAFG.F^B13,DE0006621303,4295869851,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+263,GFT Technologies SE,GFTG.F,DE0005800601,5046660761,Frankfurt Stock Exchange,Technology,Software & IT Services,False
+264,Azego AG,ACGG.F^D11,DE000A0PNL64,4295869850,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+265,Hansa Group AG,H4GG.F^H15,DE0007608606,5036753251,Frankfurt Stock Exchange,Basic Materials,Chemicals,True
+266,SZ Testsysteme AG,SZTG.F^I07,DE0005067300,4295869819,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+267,Maxdata AG,MXAG.F^J09,DE0006581309,4295869817,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+268,Wuestenrot & Wuerttembergische AG,WUWGn.DE,DE0008051004,4295869874,Xetra,Financials,Insurance,False
+269,HORNBACH Holding AG & Co KgaA,HBH.DE,DE0006083405,5046720998,Xetra,Consumer Cyclicals,Retailers,False
+270,Babcock Borsig AG,BBXG.DE^G08,DE0006638349,4295869241,Xetra,Industrials,Industrial & Commercial Services,True
+271,mediantis AG,BEHG.DE^E11,DE000A1DAG77,4295869835,Xetra,Technology,Software & IT Services,True
+272,Ricardo de AG,RIDG.F^L09,DE0007020703,4295869855,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+273,Kabel New Media AG,KNWG.DE^E11,DE0006229503,4295869832,Xetra,Technology,Software & IT Services,True
+274,Met@box AG,MBXG.DE^E11,DE0006921208,4295869858,Xetra,Technology,Technology Equipment,True
+275,KPS AG,HACGk.DE^J09,DE000A0STZE9,4295869867,Xetra,Technology,Software & IT Services,True
+276,First Sensor AG,SISG.DE,DE0007201907,4295869862,Xetra,Technology,Technology Equipment,False
+277,Foris AG,FRSG.DE,DE0005775803,5000437649,Xetra,Financials,Banking & Investment Services,False
+278,PWO AG,PWO.DE,DE0006968001,4295868713,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,False
+279,Bechtle Managed Services AG,PSBG.DE^H08,DE0006967607,4295869857,Xetra,Technology,Software & IT Services,True
+280,Generali Deutschland Holding AG (Pre-Merger),AMBGn.F^H99,DE0008400003,4295869970,Frankfurt Stock Exchange,Financials,Insurance,True
+281,P&I Personal & Informatik AG,PUIG.DE^J14,DE0006913403,4295869853,Xetra,Technology,Software & IT Services,True
+282,Sleepz AG,BTBG.DE^H03,DE0005235402,4295869847,Xetra,Consumer Cyclicals,Retailers,True
+283,Emprise AG,ERIG.DE^E11,DE0005710503,4295869866,Xetra,Technology,Software & IT Services,True
+284,TTL Beteiligungs und Grundbesitz AG,TTOG.DE^E11,DE0007501009,4295869860,Xetra,Real Estate,Real Estate,True
+285,Vtc Beteiligungen AG,IHUG.DE^K04,DE0006138605,4295869873,Xetra,Financials,Collective Investments,True
+286,Mosaic Software AG,MSWG.DE^C09,DE0007100208,4295869852,Xetra,Technology,Software & IT Services,True
+287,Arrow ECS GmbH,CPXG.DE^I09,DE0005448807,4295869844,Xetra,Technology,Software & IT Services,True
+288,Wwl Internet AG,WWIG.DE^K04,DE0007830101,4295869865,Xetra,Technology,Software & IT Services,True
+289,Teamwork Information Management AG,TWKG.DE^D09,DE0007241614,4295869878,Xetra,Technology,Software & IT Services,True
+290,Loewe AG,LOEKk.DE^F14,DE000A1X3W34,4295869888,Xetra,Technology,Technology Equipment,True
+291,Mania Technologie AG,MNIG.DE^E11,DE0006620701,5037368164,Xetra,Industrials,Industrial & Commercial Services,True
+292,Gigabell AG,GGBG.DE^B01,DE0006251705,4295869872,Xetra,Technology,Software & IT Services,True
+293,Advanced Inflight Alliance AG,DVNG.DE^J03,DE0005093009,4295869884,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+294,Schnigge Wertpapierhandelsbank AG,SHBG.DE^J03,DE0005236400,4295869890,Xetra,Financials,Banking & Investment Services,True
+295,Das Werk AG,DWEG.DE^J04,DE0005412001,4295869882,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+296,Synaxon AG,PCSG.DE^E11,DE0006873805,4295869879,Xetra,Consumer Cyclicals,Retailers,True
+297,Bucher Automation AG,JTTG.DE^D14,DE0006264005,4295869883,Xetra,Industrials,Industrial Goods,True
+298,HBAG Real Estate AG,HREG.F^J02,DE0006337009,4295868890,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+299,Private Value AG,BLNG.F^J11,DE0005084701,4295869868,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+300,Surteco Group SE,SURG.DE,DE0005176903,4295868829,Xetra,Consumer Cyclicals,Cyclical Consumer Products,False
+301,NorCom Information Technology GmbH & Co KgaA,NC5Ak.DE,DE000A12UP37,4295869891,Xetra,Technology,Software & IT Services,False
+302,Koenig & Bauer AG,SKBG.DE,DE0007193500,4295868767,Xetra,Industrials,Industrial Goods,False
+303,GfK GmbH,GFKG.DE^J17,DE0005875306,4295869903,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+304,Msh International Service AG,MXSG.F^J02,DE0006632508,4295869864,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+305,Cash Medien AG,MFCG.F^J15,DE0005251904,4295869892,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+306,Pixelpark AG,PXLGk.DE^A15,DE000A1KRMK3,4295869900,Xetra,Technology,Software & IT Services,True
+307,GEDYS Internet Products AG,GED.DE^E11,DE0005273007,4295869885,Xetra,Technology,Software & IT Services,True
+308,Fineco Verwaltung AG,EDBG.DE^H03,DE0008026907,4295869856,Xetra,Financials,Banking & Investment Services,True
+309,Elmos Semiconductor SE,ELGG.DE,DE0005677108,4295869918,Xetra,Technology,Technology Equipment,False
+310,Systematics AG,YYSG.DE^J02,DE0007276800,4295869893,Xetra,Technology,Software & IT Services,True
+311,Constantin Film AG,CFAG.DE^J09,DE0005800809,4295869881,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+312,Helkon Media AG,HEKG.DE^K09,DE0006080500,4295869923,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+313,Splendid Medien AG,SPME.DE^L24,DE0007279507,4295869887,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+314,WaveLight GmbH,WLTG.DE^J09,DE0005125603,5000954029,Xetra,Industrials,Industrial Goods,True
+315,Procon MultiMedia AG,PMMG.DE^A12,DE0005122006,4295869877,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+316,mybet Holding SE,XMYG.DE^A19,DE000A2LQ009,5064596043,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+317,Sunburst Merchandising AG,SUPG.F^E12,DE0007201501,4295869897,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,True
+318,Takkt AG,TTKG.DE,DE0007446007,4295869916,Xetra,Technology,Technology Equipment,False
+319,7days Music Entertainment AG,7DMEG.DE^E14,DE000A1EWXW8,4295869905,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+320,Cancom SE,COKG.DE,DE0005419105,5038907473,Xetra,Technology,Software & IT Services,False
+321,WCM Beteiligungs und Grundbesitz AG,WCMG.DE^E11,DE000A1X3X33,4295868822,Xetra,Real Estate,Real Estate,True
+322,Lipro AG Logistik Und Information Fuer,LPRG.DE^J06,DE0005212609,4295869927,Xetra,Technology,Software & IT Services,True
+323,Open Text Software GmbH (Pre-Reincorporation),GSOGa.DE^G04,DE0005532907,5000053024,Xetra,,,True
+324,WCM Beteiligungs und Grundbesitz AG,WCAGe.DE^J99,DE000A1X3X33,4295868822,Xetra,Real Estate,Real Estate,True
+325,Xylem Water Solutions Herford GmbH,WDOG.DE^G05,DE0005141808,5034750230,Xetra,Industrials,Industrial Goods,True
+326,Tiscon AG,TISG.DE^E11,DE000A409732,4295869907,Xetra,Consumer Cyclicals,Retailers,True
+327,Elektra Beckum AG,FBEGa.DE^J99,DE0005667299,4295870115,Xetra,Industrials,Industrial Goods,True
+328,Celanese GmbH,CZZG.DE^A07,DE0005753008,4295869919,Xetra,Basic Materials,Chemicals,True
+329,Deutsche Real Estate AG,DREGa.F,DE0008055021,4295869384,Frankfurt Stock Exchange,Real Estate,Real Estate,False
+330,TDK Electronics AG,EPCGn.DE^J09,DE0005128003,4295869936,Xetra,Technology,Technology Equipment,True
+331,Readcrest Capital AG,BMQGk.DE^E11,DE000A0LE3J1,4295869904,Xetra,Industrials,Industrial & Commercial Services,True
+332,Cybio AG,CQJG.DE^G11,DE0005412308,4295869960,Xetra,Healthcare,Healthcare Services & Equipment,True
+333,Sai Automotive AG,SAIGe.F^B00,DE0005009013,5000766212,Frankfurt Stock Exchange,Consumer Cyclicals,Automobiles & Auto Parts,True
+334,Ciber AG,NOVG.DE^H06,DE0006778905,4295869950,Xetra,Technology,Software & IT Services,True
+335,DAB Bank AG,DRNG.DE^G15,DE0005072300,4295869963,Xetra,Financials,Banking & Investment Services,True
+336,Tomorrow Internet AG,TOQG.DE^A02,DE0005414601,4295869959,Xetra,Technology,Software & IT Services,True
+337,buch.de internetstores GmbH,BUEG.DE^E14,DE0005204606,5044171592,Xetra,Technology,Software & IT Services,True
+338,Brainpool Tv AG,BTVG.F^H02,DE0005188908,4295869957,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,True
+339,condomi AG,CAGG.DE^A11,DE0005444905,4295869955,Xetra,Consumer Non-Cyclicals,Personal & Household Products & Services,True
+340,Elsa Vermoegens und Beteiligungs AG,RDGG.DE^J04,DE000A0V9KH4,4295869958,Xetra,Financials,Investment Holding Companies,True
+341,secunet Security Networks AG,YSNG.DE,DE0007276503,4295869924,Xetra,Technology,Software & IT Services,False
+342,Dmg Mori AG,GILG.DE,DE0005878003,4295869592,Xetra,Industrials,Industrial Goods,False
+343,Panamax New Energy AG,PDEG.DE^E11,DE000A1R1C81,5057938860,Xetra,Financials,Investment Holding Companies,True
+344,Evotec SE,EVTG.DE,DE0005664809,5068477440,Xetra,Healthcare,Pharmaceuticals & Medical Research,False
+345,Clere AG,CAGGk.DE^F17,DE000A3H2309,5056415212,Xetra,Utilities,Utilities,True
+346,SinnerSchrader AG,SZZG.DE^H19,DE0005141907,4295869901,Xetra,Technology,Software & IT Services,True
+347,Phenomedia AG,PNMG.DE^F05,DE0005414908,5000729984,Xetra,Technology,Software & IT Services,True
+348,3U Holding AG,UUUG.DE,DE0005167902,4295869969,Xetra,Consumer Cyclicals,Retailers,False
+349,Baeurer AG,BEUG.DE^H04,DE0005530703,4295869961,Xetra,Technology,Software & IT Services,True
+350,Sai Automotive AG,SAIG.F^G04,DE0005009005,5000766212,Frankfurt Stock Exchange,Consumer Cyclicals,Automobiles & Auto Parts,True
+351,burgbad AG,BUBG_p.DE^F05,DE0005302137,4295869194,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+352,Freenet.De Ag,FRNG.DE^C07,DE0005792006,4295869271,Xetra,Technology,Telecommunications Services,True
+353,Gesellschaft fuer Network Training AG GfN AG,GFNG.DE^J05,DE0002457652,5001011533,Xetra,Financials,Collective Investments,True
+354,Elephant Seven AG,EPHG.DE^J07,DE0005138200,4295869908,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+355,Muenchener Rueckversicherungs-Gesellschaft in Muenchen AG,MUVG.DE^K99,DE0008430000,4295868986,Xetra,Financials,Insurance,True
+356,Acordis GmbH,GLAG.F^K99,DE0007622003,4295869551,Frankfurt Stock Exchange,Financials,Collective Investments,True
+357,ADS System GmbH,AYGG.DE^H06,DE0005147805,5001564231,Xetra,Industrials,Industrial & Commercial Services,True
+358,Lahmeyer AG,LMYG.DE^B00,DE0006056302,4295869613,Xetra,Utilities,Utilities,True
+359,Internolix AG,ITXG.DE^D11,DE0006227309,4295870116,Xetra,Technology,Technology Equipment,True
+360,Rohwedder AG,RWDG.DE^L10,DE0007057705,4295870113,Xetra,Industrials,Industrial Goods,True
+361,Friedrich Grohe AG,GROG_p.DE^C00,DE0005900435,4295870102,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+362,Bechtle AG,BC8G.DE,DE0005158703,4295870093,Xetra,Technology,Software & IT Services,False
+363,Abwicklungsgesellschaft Roesch Medizintechnik AG,RSBG.DE^E11,DE0005291405,4295870060,Xetra,Healthcare,Healthcare Services & Equipment,True
+364,Msg Life ag,MSGL.DE^C17,DE0005130108,4295870048,Xetra,Technology,Software & IT Services,True
+365,USU Ventures AG,OSPG.DE^H04,DE0007804700,4295870074,Xetra,Financials,Investment Holding Companies,True
+366,DCI Database for Commerce and Industry AG,DCIG.DE^E11,DE000A11QU11,4295870052,Xetra,Technology,Software & IT Services,True
+367,Concept AG,CUKG.DE^J02,DE0005287809,4295870091,Xetra,Technology,Software & IT Services,True
+368,Infor Deutschland GmbH (Pre-Reincorporation),MIXG.DE^A06,DE0006612401,5000633951,Xetra,Technology,Software & IT Services,True
+369,Aligna AG,PSTG.DE^A12,DE0005471809,4295870065,Xetra,Healthcare,Pharmaceuticals & Medical Research,True
+370,TV Loonland AG,TVLG.DE^L12,DE0005348403,4295870112,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+371,Techem GmbH,TNHG.DE^C09,DE0005471601,5000434905,Xetra,Real Estate,Real Estate,True
+372,Infineon Technologies AG,IFXGn.DE,DE0006231004,4295870063,Xetra,Technology,Technology Equipment,False
+373,Yellowfin Asset Management GmbH,ONVG.DE^E11,DE0005461602,5083657814,Xetra,Financials,Banking & Investment Services,True
+374,Ipc Archtec AG,AL8G.DE^K08,DE0005252803,4295870057,Xetra,Consumer Cyclicals,Retailers,True
+375,Path2 Hydrogen AG,HBDGk.DE^E11,DE000A1A6WB2,5059956752,Xetra,Technology,Financial Technology (Fintech) & Infrastructure,True
+376,PopNet Internet AG,PNZG.DE^A10,DE0006228109,4295870053,Xetra,Technology,Software & IT Services,True
+377,Arndt Automobile GmbH,AHZG.F^L12,DE0005269104,4295870075,Frankfurt Stock Exchange,Industrials,Transportation,True
+378,118000 AG,Z18G.DE^D13,DE0006911902,4295870055,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+379,Softline GmbH,SFDGk.DE^A24,DE000A2DAN10,5034846155,Xetra,Technology,Software & IT Services,True
+380,ISION Internet AG,IOIG.F^I15,DE0006112006,4295870067,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+381,Swing! Entertainment Media AG,SGVG.DE^J08,DE0005474407,4295870034,Xetra,Technology,Software & IT Services,True
+382,CANCOM Managed Services GmbH,PNGG.DE^C15,DE0006916406,5072798759,Xetra,Technology,Software & IT Services,True
+383,Datasave Informationssysteme AG,DSVG.DE^B06,DE0005519508,4295870058,Xetra,Technology,Software & IT Services,True
+384,Atevia GmbH,CMBGn.DE^J12,DE000CMBT111,4295870044,Xetra,Technology,Software & IT Services,True
+385,m s Elektronik AG,MUSG.DE^E11,DE0006617400,4295870070,Xetra,Technology,Software & IT Services,True
+386,Pro DV AG,PDAG.DE^L08,DE000A4096T1,4295870096,Xetra,Technology,Software & IT Services,True
+387,Trius AG,TUSG.DE^J06,DE0005270300,4295870054,Xetra,Financials,Collective Investments,True
+388,Greenwich Beteiligungen AG,PEBk.F^H17,DE000A2BPL17,4295869408,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+389,German Values Property Group GmbH,TVDGk.DE^E11,DE000A0L1NQ8,5000631757,Xetra,Real Estate,Real Estate,True
+390,net SE,NETGnk.DE^I09,DE000A1682B9,5001223910,Xetra,Technology,Software & IT Services,True
+391,BIODATA Information Technology AG,BITG.DE^E11,DE0005422703,4295870037,Xetra,Technology,Technology Equipment,True
+392,Abit GmbH (Pre-Merger),ABIG.DE^H06,DE0005122501,5001426716,Xetra,Technology,Software & IT Services,True
+393,Aditron AG,AHGGn.F^G03,DE0007035107,4295868752,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+394,Rational AG,RAAG.DE,DE0007010803,4295870111,Xetra,Consumer Cyclicals,Cyclical Consumer Products,False
+395,BKN International AG,BKQG.DE^E11,DE0005290704,4295870071,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+396,TelesensKSCL AG,TLZG.DE^C04,DE0005299705,4295870083,Xetra,Technology,Software & IT Services,True
+397,ATOSS Software SE,AOFG.DE,DE0005104400,4295870078,Xetra,Technology,Software & IT Services,False
+398,Carl Zeiss Meditec AG,AFXG.DE,DE0005313704,4295870081,Xetra,Healthcare,Healthcare Services & Equipment,False
+399,CTS Eventim AG & Co KgaA,EVDG.DE,DE0005470306,5043318232,Xetra,Technology,Software & IT Services,False
+400,MVV Energie AG,MVVGe.DE^B00,DE0007255911,4295869756,Xetra,Utilities,Utilities,True
+401,MVV Energie AG,MVVGn.DE,DE000A0H52F5,4295869756,Xetra,Utilities,Utilities,False
+402,Sixt SE,SIXG_p.DE,DE0007231334,5040208467,Xetra,Industrials,Transportation,False
+403,Sixt AG,SIXGga.F^F00,DE0007231417,4295869599,Frankfurt Stock Exchange,Industrials,Transportation,True
+404,Isra Vision AG (Pre-Merger),ISRG.DE^E21,DE0005488100,4295870122,Xetra,Technology,Software & IT Services,True
+405,Grenke AG,GLJn.DE,DE000A161N30,4295870117,Xetra,Financials,Banking & Investment Services,False
+406,Cycos AG,YOSG.DE^E11,DE0007700205,4295870120,Xetra,Technology,Software & IT Services,True
+407,QBeyond AG,QBY0k.DE,DE000A41YDG0,4295870153,Xetra,Technology,Software & IT Services,False
+408,Kontron AG,KBCG.DE^H17,DE0006053952,4295870211,Xetra,Technology,Technology Equipment,True
+409,CDV Software Entertainment AG,OGGGk.DE^E11,DE000A0MF053,4295870121,Xetra,Technology,Software & IT Services,True
+410,Jobpilot AG,JOAG.DE^J02,DE0005141709,4295870114,Xetra,Industrials,Industrial & Commercial Services,True
+411,T Online International AG,TOIGn.DE^G06,DE0005557706,4295870119,Xetra,Technology,Software & IT Services,True
+412,DocCheck AG,ANWGn.DE^E11,DE000A1A6WE6,4295870126,Xetra,Healthcare,Healthcare Services & Equipment,True
+413,November AG,NBXGk.DE^I13,DE000A0Z24E9,5001230472,Xetra,Healthcare,Pharmaceuticals & Medical Research,True
+414,Cargolifter AG,CGLGn.DE^E11,DE0005402614,5000088067,Xetra,Industrials,Transportation,True
+415,Comparex AG,PCWG.DE^A11,DE0006910904,4295869875,Xetra,Technology,Software & IT Services,True
+416,GBS Software AG,INWk.DE,DE000A3MQR99,5000002714,Xetra,Technology,Software & IT Services,False
+417,Energiekontor AG,EKTG.DE^E11,DE0005313506,4295870139,Xetra,Utilities,Utilities,True
+418,Eichborn AG,EIHG.DE^E11,DE0005183701,4295870132,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+419,Softing AG,SYTG.DE,DE0005178008,4295870123,Xetra,Technology,Technology Equipment,False
+420,Netrada Holding GmbH,DSJG.DE^F10,DE0005336804,5035158227,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+421,Kennametal Hertel AG,HEFG.F^D00,DE0006053804,4295869597,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+422,Adori AG,ADJG.DE^K07,DE0006655103,4295870146,Xetra,Technology,Software & IT Services,True
+423,IM Internationalmedia AG,IEMGk.DE^F13,DE000A0STYJ1,4295870135,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+424,United Labels AG,ULCG.DE,DE0005489561,4295870137,Xetra,Consumer Cyclicals,Retailers,False
+425,Turbon AG,TURG.DE^E11,DE0007504508,4295869424,Xetra,Technology,Technology Equipment,True
+426,Ruecker AG,RUKG.DE^J13,DE0007041105,4295870129,Xetra,Industrials,Industrial & Commercial Services,True
+427,Sedo Holding AG,SDOGn.DE^C14,DE0005490155,5035520321,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+428,Kennametal Hertel AG,HEFG_p.F^H00,DE0006053838,4295869597,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+429,Arbomedia GmbH,RBXG.DE^E11,DE0005489306,5037431327,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+430,Girindus AG iL,GIRG.DE^H14,DE0005880405,5001218497,Xetra,Healthcare,Pharmaceuticals & Medical Research,True
+431,Broadnet AG,MSCG.DE^K07,DE0005490866,4295870141,Xetra,Technology,Software & IT Services,True
+432,VIAG AG,VIAG.DE^F00,DE0007626202,4295869222,Xetra,Utilities,Utilities,True
+433,IN motion AG movie TV & music productions,IXUG.DE^E11,DE0006223803,4295870155,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+434,Gpc Biotech AG,GPCG.DE^K09,DE0005851505,4295869353,Xetra,Healthcare,Pharmaceuticals & Medical Research,True
+435,Beta Systems Software AG,SPT6.F,DE000A0NK3W4,4295869730,Frankfurt Stock Exchange,Technology,Software & IT Services,False
+436,Deutsche Balaton AG,BBHKk.F^J23,DE000A2LQT08,4295869458,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+437,AmaTech AG,TXAG.DE^E11,DE0005192801,4295870158,Xetra,Technology,Software & IT Services,True
+438,Pixelnet AG,PXNG.DE^F05,DE0005279806,4295870164,Xetra,Industrials,Industrial & Commercial Services,True
+439,Moenus Textilmaschinen AG,MOEG_pa.F^F00,DE0006621055,5000008512,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+440,adesso SE,ADNGk.DE,DE000A0Z23Q5,4295870159,Xetra,Technology,Software & IT Services,False
+441,Siemens Industry Software GmbH,IBBGn.DE^H14,DE0006228406,5051008422,Xetra,Technology,Software & IT Services,True
+442,Alphaform AG,ATFG.DE^E17,DE0005487953,4295870156,Xetra,Basic Materials,Applied Resources,True
+443,Comdirect Bank AG,CDBG.DE^K20,DE0005428007,4295870147,Xetra,Financials,Banking & Investment Services,True
+444,Medisana GmbH,MHHG.DE^J16,DE0005492540,5037612409,Xetra,Healthcare,Healthcare Services & Equipment,True
+445,Masterflex SE,MZXG.DE,DE0005492938,5040699848,Xetra,Industrials,Industrial Goods,False
+446,Microlog Logistics AG,MKLG.DE^H07,DE0005494314,4295870167,Xetra,Industrials,Transportation,True
+447,Media AG Fuer Innovative Medientechnologie,MJAG.DE^J05,DE0006633308,4295869620,Xetra,Financials,Collective Investments,True
+448,Scholz and Friends Group GmbH,UVIG.DE^K01,DE0005488985,5000414856,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+449,Feedback AG,FEEG.F^C05,DE0005490775,4295870152,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+450,UMS United Medical Systems International AG I L,UMS.DE^A15,DE0005493654,4295869575,Xetra,Healthcare,Healthcare Services & Equipment,True
+451,Analytik Jena GmbH+Co KG,AJAG.DE^C15,DE0005213508,4295870157,Xetra,Industrials,Industrial Goods,True
+452,Eurofins Genescan Holding GmbH,GEPG.DE^G05,DE0005861504,5037588040,Xetra,Basic Materials,Chemicals,True
+453,Texas Instruments Berlin GmbH,CDTG.DE^J03,DE0005310908,5000710884,Xetra,Technology,Software & IT Services,True
+454,Wapme Systems AG,WPMG.DE^B09,DE0005495501,4295870169,Xetra,Technology,Software & IT Services,True
+455,CompuGroup Medical SE & Co KgaA,COPMa.F^G03,DE000A288904,5050307430,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+456,Nexus AG,NXUG.DE^K25,DE0005220909,4295869331,Xetra,Technology,Software & IT Services,True
+457,media netCom AG,MNPGn.DE^G07,DE0005423800,4295870165,Xetra,Technology,Software & IT Services,True
+458,GERRY WEBER International GmbH,GWIG_p.DE^H00,DE0007762437,4295868914,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+459,Curasan AG,CURk.DE^J20,DE000A2YPGM4,4295869313,Xetra,Healthcare,Healthcare Services & Equipment,True
+460,CAA AG,CAAG.DE^J02,DE0006176001,4295869302,Xetra,Technology,Software & IT Services,True
+461,VIVA Media GmbH,VVMGn.DE^F05,DE0006171069,5000240232,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+462,USU AG,USUG.DE^I03,DE0007571101,4295869915,Xetra,Technology,Software & IT Services,True
+463,Medigene AG,MDG1k.DE^D25,DE000A40ESG2,4295869325,Xetra,Healthcare,Pharmaceuticals & Medical Research,True
+464,IVU Traffic Technologies AG,IVUG.DE,DE0007448508,4295869327,Xetra,Technology,Software & IT Services,False
+465,Pferdewetten de AG,EMHG.DE^E11,DE000A2YN777,5000053507,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+466,Holidaycheck Group AG,HOC.DE^K21,DE0005495329,4295869318,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+467,Allgeier SE,AEIGn.DE,DE000A2GS633,5037586654,Xetra,Technology,Software & IT Services,False
+468,ArtStor AG,HHSG.DE^E11,DE0005492862,4295870154,Xetra,Technology,Technology Equipment,True
+469,Umweltkontor Renewable Energy AG,UREG.DE^L06,DE0007608101,4295870170,Xetra,Utilities,Utilities,True
+470,Job Today AG,JOBG.DE^D01,DE0005939508,4295869859,Xetra,,,True
+471,Ingram Macrotron Aktiengesellschaft fuer Datenerfassungssysteme,MACR_p.F^A01,DE0006549132,5000428711,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+472,Ingram Macrotron Aktiengesellschaft fuer Datenerfassungssysteme,MACR.F^A01,DE0006549108,5000428711,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+473,Geratherm Medical AG,GMEG.DE,DE0005495626,4295869319,Xetra,Healthcare,Healthcare Services & Equipment,False
+474,Advanced Photonics Technologies AG,AP8Gk.DE^E11,DE000A0AM9S2,4295869300,Xetra,Technology,Technology Equipment,True
+475,PFAFF Industrie Maschinen AG,PFAG.F^I00,DE0006914302,4295869095,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+476,Ejay AG,EJ1G.DE^E02,DE0005495709,4295869316,Xetra,Technology,Software & IT Services,True
+477,Bausch AG,BAHG.DE^H00,DE0005175905,5000089829,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+478,Actris Brauereibetriebsveraeusserungs AG,EWBG.F^H00,DE0005706006,4295868838,Frankfurt Stock Exchange,Consumer Non-Cyclicals,Food & Beverages,True
+479,2Invest AG,2INVn.DE^A26,DE000A3H3L44,4295869583,Xetra,Financials,Investment Holding Companies,True
+480,Dierig Holding AG,DIEG.F,DE0005580005,4295868672,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,False
+481,Dierig Holding AG,DIEGa.F^H00,DE0005580096,4295868672,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+482,Elektra Beckum AG,FBEG.F^H02,DE0005667208,4295870115,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+483,Otto Stumpf AG,STUG_p.F^B04,DE0007282048,4295869559,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+484,Otto Stumpf AG,STUG_pa.F^I00,DE0007282048,4295869559,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+485,Pgam Advanced Technologies AG,PATG.DE^L06,DE0005138408,4295869564,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,True
+486,Lambda Physik AG,LPXG.DE^A05,DE0005494272,4295869614,Xetra,Technology,Technology Equipment,True
+487,Irene Propco 6 Deutschland Immobilien GmbH,SDKG.F^C09,DE0007276008,5000667922,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+488,NTT DATA Business Solutions AG,ILHG.DE^F13,DE0007300402,4295869637,Xetra,Technology,Software & IT Services,True
+489,Fame AG,FAMG.DE^I04,DE0005185102,4295869578,Xetra,Financials,Banking & Investment Services,True
+490,SAP Systems Integration AG,SSIG.DE^F07,DE0005011118,4295869579,Xetra,Technology,Software & IT Services,True
+491,4MBO International Electronic AG,MB4G.DE^G06,DE0005487805,4295869576,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+492,Qioptiq Holding GmbH,LIAG.DE^G09,DE0005256507,5000633972,Xetra,Technology,Technology Equipment,True
+493,Caatoosee AG,CATG.DE^F05,DE0006178353,4295869607,Xetra,Technology,Software & IT Services,True
+494,Gap AG,GSMGk.DE^J06,DE0005801500,4295869616,Xetra,Technology,Software & IT Services,True
+495,Orbis Se,OBS.DE,DE0005228779,4295869619,Xetra,Technology,Software & IT Services,False
+496,exceet Card AG,WI7Gk.DE^B11,DE000A0XFUK6,4295870012,Xetra,Industrials,Industrial Goods,True
+497,Albingia Versicherungs AG,AGVG_p.F^K00,DE0008457037,4295870172,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+498,Albingia Versicherungs AG,AGVG.F^K00,DE0008457003,4295870172,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+499,MPC Muenchmeyer Petersen Capital AG,MPCKk.DE,DE000A1TNWJ4,4295869638,Xetra,Financials,Banking & Investment Services,False
+500,Syzygy AG,SYZG.DE,DE0005104806,4295869634,Xetra,Industrials,Industrial & Commercial Services,False
+501,Wirecard AG,WDIG.DE^A21,DE0007472060,4295869662,Xetra,Industrials,Industrial & Commercial Services,True
+502,Agfb AG Fuer Beteiligungen An Telekommunikationsunternehmen,ABTG.DE^C01,DE0005008809,4295869438,Xetra,,,True
+503,STRABAG Grossprojekte GmbH,HELG.F^K00,DE0006043003,4295869309,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+504,Borussia Dortmund GmbH & Co KGaA,BVB.DE,DE0005493092,4295869631,Xetra,Consumer Cyclicals,Cyclical Consumer Services,False
+505,Swiss Life Deutschland Vertriebsholding GmbH,AWDG.DE^K09,DE0005085906,5040185067,Xetra,Financials,Banking & Investment Services,True
+506,BayWa AG,BYWGnx.DE,DE0005194062,4295869074,Xetra,Consumer Non-Cyclicals,Food & Beverages,False
+507,STRABAG Grossprojekte GmbH,HELG_p.F^K00,DE0006043037,4295869309,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+508,Heiler Software GmbH,HRWG.DE^E13,DE0005429906,5040697805,Xetra,Technology,Software & IT Services,True
+509,Camelot Tele Communication Online AG iI,CTKG.DE^E11,DE0005010896,4295869655,Xetra,Technology,Telecommunications Services,True
+510,Reply Deutschland AG,SYSG.DE^L13,DE0005501456,4295869653,Xetra,Technology,Software & IT Services,True
+511,Pelikan AG,HEZG_p.DE^A01,DE0006053135,4295869574,Xetra,Basic Materials,Applied Resources,True
+512,BayWa AG,BYWG.DE,DE0005194005,4295869074,Xetra,Consumer Non-Cyclicals,Food & Beverages,False
+513,SPORTTOTAL AG,WIGGk.DE^F25,DE000A1EMG56,4295869650,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+514,Vew AG,VEWG.F^K00,DE0007612210,4295870252,Frankfurt Stock Exchange,Utilities,Utilities,True
+515,Biolitec AG,BIBG.DE^C13,DE0005213409,4295870005,Xetra,Healthcare,Healthcare Services & Equipment,True
+516,Paragon GmbH & Co KGaA,PGNG.DE,DE0005558696,5064637630,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,False
+517,EMS New Media AG,EMNG.DE^E11,DE0005212807,4295870010,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+518,TAG Immobilien AG,TEGG.DE,DE0008303504,4295869000,Xetra,Real Estate,Real Estate,False
+519,Deutsche Post AG,DHLn.DE,DE0005552004,4295869983,Xetra,Industrials,Transportation,False
+520,TC Unterhaltungselektronik AG,TCUG.F,DE0007454209,4295869652,Frankfurt Stock Exchange,Technology,Technology Equipment,False
+521,Mood and Motion AG,NF7Gk.DE^A15,DE000A1E9A75,4295869286,Xetra,Financials,Banking & Investment Services,True
+522,BTT Abwicklungsgesellschaft AG,BTSG.DE^F04,DE0006180615,4295868675,Xetra,Healthcare,Pharmaceuticals & Medical Research,True
+523,Comtrade AG,CTBGk.DE^E11,DE000A0STXE4,4295869289,Xetra,Technology,Software & IT Services,True
+524,Mme Moviement AG,MMEG.DE^H15,DE0005761159,5049099046,Xetra,Technology,Software & IT Services,True
+525,EECH Group AG,PTAG.DE^E11,DE0006852809,4295868671,Xetra,Utilities,Utilities,True
+526,Funkwerk AG,FEWG.DE^C13,DE000A40ZW05,4295869645,Xetra,Technology,Technology Equipment,True
+527,GBS Software AG,GRPGk.DE^J06,DE0001262012,5000002714,Xetra,Technology,Software & IT Services,True
+528,Mediclin AG,MEDG.DE,DE0006595101,4295869285,Xetra,Healthcare,Healthcare Services & Equipment,False
+529,Maier + Partner AG,MPRG.DE^E11,DE000A1MMCY2,4295869565,Xetra,Technology,Technology Equipment,True
+530,PA Power Automation AG,PPAG.DE^E11,DE0006924400,4295869736,Xetra,Industrials,Industrial Goods,True
+531,Deutsche EuroShop AG,DEQGn.DE,DE0007480204,4295869658,Xetra,Real Estate,Real Estate,False
+532,Hoenle AG,HNL.DE,DE0005157101,4295869295,Xetra,Industrials,Industrial Goods,False
+533,Deutsche Boerse AG,DB1Gn.DE,DE0005810055,4298007872,Xetra,Financials,Banking & Investment Services,False
+534,Sunways AG,SWWG.DE^D14,DE0007332207,4295869304,Xetra,Energy,Renewable Energy,True
+535,DGAG Deutsche Grundvermoegen AG,BLAG.F^J07,DE0007659500,4295868734,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+536,CoDon AG,CNWk.DE^J22,DE000A3E5C08,4295869312,Xetra,Healthcare,Pharmaceuticals & Medical Research,True
+537,Skw Trostberg AG,SKWG.DE^B01,DE0007626608,4295869126,Xetra,Basic Materials,Chemicals,True
+538,KME AG,KMGG.DE^L00,DE0006003007,4295869085,Xetra,Basic Materials,Mineral Resources,True
+539,A Friedr. Flender AG,FFLG.F^C01,DE0005769608,4295869373,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+540,OHB SE,OHBG.DE,DE0005936124,5045819668,Xetra,Industrials,Industrial Goods,False
+541,Ls Telcom AG,LSXG.DE^J14,DE0005754402,4295869562,Xetra,Technology,Technology Equipment,True
+542,Agiplan Technosoft AG,AGIG.DE^E11,DE0005870356,4295869633,Xetra,Technology,Software & IT Services,True
+543,Triplan AG,TPNG.DE^J17,DE0007499303,4295869649,Xetra,Technology,Software & IT Services,True
+544,Wickrather Handels & Beteiligungs AG,WKHG.F^H01,DE0007781007,4298142499,Frankfurt Stock Exchange,Consumer Cyclicals,Retailers,True
+545,Nordex SE,NDXG.DE^D05,DE0005873574,5000667749,Xetra,Industrials,Industrial Goods,True
+546,farmatic Anlagenbau GmbH,FARG.DE^E11,DE0006051923,4295869654,Xetra,Industrials,Industrial & Commercial Services,True
+547,Ex Cell O Holding AG,EXOG.F^D01,DE0005700009,4295869998,Frankfurt Stock Exchange,Consumer Cyclicals,Automobiles & Auto Parts,True
+548,Schweizer Electronic AG,SWEGn.DE,DE0005156236,4295869346,Xetra,Technology,Technology Equipment,False
+549,Deutsche Kontinentale Rueckversicherungs Ag,MRVG.F^E01,DE0008427006,5001153151,Frankfurt Stock Exchange,,,True
+550,MS Industrie AG,MSAG.DE,DE0005855183,4295869054,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,False
+551,Mueller Die lila Logistik SE,MLLG.DE,DE0006214687,4295869665,Xetra,Industrials,Transportation,False
+552,VTG Deutschland GmbH,LEHG.F^F01,DE0006464209,4298173917,Frankfurt Stock Exchange,Industrials,Transportation,True
+553,KME AG,KMGG.DE^I01,DE0006003007,4295869085,Xetra,Basic Materials,Mineral Resources,True
+554,Kraftwerk Altwuerttemberg AG,KAWG.F^G01,DE0006328008,4295868845,Frankfurt Stock Exchange,Utilities,Utilities,True
+555,Main Kraftwerke AG,MKWG.F^G01,DE0006554009,4295869395,Frankfurt Stock Exchange,,,True
+556,Pulsion Medical Systems SE,PUSG.DE^A15,DE0005487904,5035302822,Xetra,Healthcare,Healthcare Services & Equipment,True
+557,Fraport AG Frankfurt Airport Services Worldwide,FRAG.DE,DE0005773303,4295868957,Xetra,Industrials,Transportation,False
+558,WOM World of Medicine GmbH,WOMG.DE^H12,DE0006637390,5040692172,Xetra,Healthcare,Healthcare Services & Equipment,True
+559,Sap AG,SAPG_p.DE^F01,DE0007164634,4295868698,Xetra,Technology,Software & IT Services,True
+560,Essanelle Hair Group AG,EHXG.DE^H14,DE0006610314,4295869059,Xetra,Consumer Non-Cyclicals,Personal & Household Products & Services,True
+561,Softship GmbH,SFOG.DE^L17,DE0005758304,4295869075,Xetra,Technology,Software & IT Services,True
+562,Babcock Borsig AG,DBCG.DE^G01,DE0005507008,4295869241,,Industrials,Industrial & Commercial Services,True
+563,BdAG Balcke Duerr AG,DWRG.F^G01,DE0005565006,4295869062,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+564,Schoen & Cie AG,SCCG.F^L12,DE0007198806,4295868869,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+565,init innovation in traffic systems SE,IXXG.DE,DE0005759807,5054883197,Xetra,Technology,Software & IT Services,False
+566,SVC AG Schmidt Vogel Consulting,SVAG.DE^J01,DE0007300303,5000029433,Xetra,Technology,Software & IT Services,True
+567,SM Wirtschaftsberatungs AG,SMWN.DE,DE000A1RFMZ1,4295869728,Xetra,Real Estate,Real Estate,False
+568,M Tech Technologie und Beteiligungs AG,SHUG_p.F^H01,DE0007236333,4295868899,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+569,SWARCO Traffic Holding GmbH,MTBG.F^K14,DE0007236309,5064708347,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+570,Teldafax AG,TFXG.DE^I01,DE0007455107,4295869710,Xetra,Technology,Software & IT Services,True
+571,Suedzucker AG,SZUG_p.DE^I01,DE0007297038,4295869156,Xetra,Consumer Non-Cyclicals,Food & Beverages,True
+572,AdCapital AG,ADCG_p.DE^J01,DE0005214530,4295869306,Xetra,Financials,Banking & Investment Services,True
+573,HAGEN Batterie AG,HBAGa.F^L03,DE0007241259,4295869586,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+574,HAGEN Batterie AG,HBAG.F^J01,DE0005000509,4295869586,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+575,MLP SE,MLPG_p.DE^I01,DE0006569932,5057829971,Xetra,Financials,Banking & Investment Services,True
+576,STADA Arzneimittel AG,STAG_p.DE^K01,,4295869543,Xetra,Healthcare,Pharmaceuticals & Medical Research,True
+577,Fpb Holding AG,FMNG.DE^K01,DE0005772305,5000089721,Xetra,Basic Materials,Applied Resources,True
+578,Stratec Se,SBSG.DE,DE000STRA555,5067158273,Xetra,Healthcare,Healthcare Services & Equipment,False
+579,Scholz and Friends Group GmbH,SFAG.F^K05,DE0006972805,5000414856,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,True
+580,SG Holding AG,SCGG_p.DE^K01,DE0008262536,4295869350,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,True
+581,Koenig & Bauer AG,SKBG_p.DE^L01,DE0007193534,4295868767,Xetra,Industrials,Industrial Goods,True
+582,Vivacon AG,VIVG.DE^F14,DE0006048911,4295869672,Xetra,Real Estate,Real Estate,True
+583,Baum AG,BAMGn.F^D04,DE0005083109,5000088770,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+584,Ueberlandwerk Unterfranken AG,UUFG.F^B02,DE0007565004,5000356318,Frankfurt Stock Exchange,,,True
+585,Loginet3 AG,PPBG.F^A13,DE0006945702,5001426595,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+586,Christian Adalbert Kupferberg & Compagnie,KUPG.F^C03,DE0006341001,5000764739,Frankfurt Stock Exchange,,,True
+587,Senvion GmbH,RPWGn.DE^K11,DE0006177033,5050647520,Xetra,Energy,Renewable Energy,True
+588,Uniprof Real Estate Holding AG,UPRG.F^F22,DE0005509129,4295869568,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+589,Dyckerhoff & Widmann AG,DYWG.F^F02,DE0005575500,4295868938,Frankfurt Stock Exchange,Basic Materials,Mineral Resources,True
+590,TIG Themis Industries Group GmbH & Co KGaA,VCHGkn.DE^L10,DE000A0XYL04,4295870098,Xetra,Financials,Investment Holding Companies,True
+591,Aareal Bank AG,ARLn.DE^K23,DE000A37FT90,4295870187,Xetra,Financials,Banking & Investment Services,True
+592,Aire GmbH & Co KGaA,IREG.DE^F13,DE0006344211,5000001759,Xetra,Real Estate,Real Estate,True
+593,Dresdner Bank AG,DRSDn.DE^G02,DE0005350003,4295869979,Xetra,Financials,Banking & Investment Services,True
+594,Heidelberg Materials AG,HEIG_p.DE^G02,DE0006047038,4295868961,Xetra,Basic Materials,Mineral Resources,True
+595,Solar Fabrik fuer Produktion und Vertrieb von solartechnischen Produkten AG,SFXG.DE^G15,DE0006614712,4295869989,Xetra,Energy,Renewable Energy,True
+596,IKON Praezisionstechnik GmbH,ZEIG.F^H02,DE0007872004,4295868811,Frankfurt Stock Exchange,,,True
+597,Kiekert AG,KIEG.F^H02,DE0006286206,4295869128,Frankfurt Stock Exchange,Consumer Cyclicals,Automobiles & Auto Parts,True
+598,Mologen AG,MGNK.DE^K20,DE000A2LQ900,4295869711,Xetra,Healthcare,Pharmaceuticals & Medical Research,True
+599,HIS Sportswear AG,HISG.F^G02,DE0006066004,4295869483,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+600,Generali Deutschland Versicherung AG,AMVG.F^H02,DE0008410804,4295868893,Frankfurt Stock Exchange,Financials,Insurance,True
+601,Generali Deutschland Lebensversicherung AG,AMLG.F^H02,DE0008453929,5000063322,Frankfurt Stock Exchange,Financials,Insurance,True
+602,MONACHIA Grundstuecks GmbH,MOA.F^H02,DE0006622905,4295868716,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+603,Zanders-Abwicklungs GmbH,ZANG.F^H02,DE0007852105,4295869570,Frankfurt Stock Exchange,Basic Materials,Applied Resources,True
+604,Zanders-Abwicklungs GmbH,ZANG_p.F^H02,DE0007852139,4295869570,Frankfurt Stock Exchange,Basic Materials,Applied Resources,True
+605,JUMPtec Industrielle Computertechnik AG,JMPG.DE^H02,DE0006090608,4295869757,Xetra,Technology,Technology Equipment,True
+606,Eurohypo AG Europaeische Hypothekenbank Der Deutschen Bank,FHYG.F^H02,DE0008053000,4295869563,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+607,ODDO BHF SE,BHFG.DE^H02,DE0008025008,4295868925,Xetra,Financials,Banking & Investment Services,True
+608,Gamma Holding Deutschland GmbH,VSWG.F^H02,DE0007644007,5000656290,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+609,Rheinhyp Rheinische Hypothekenbank AG,RHYG.F^J02,DE0008101007,4295868800,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+610,Vodafone AG,VDFGn.DE^H02,DE0006560303,4295869199,Xetra,Technology,Telecommunications Services,True
+611,Bbg Beteiligungs AG,BRKG.F^H02,DE0008009002,4295868732,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+612,Mainzer Aktien Bierbrauerei AG,MABG_p.F^H02,DE0006555048,4295868740,Frankfurt Stock Exchange,Consumer Non-Cyclicals,Food & Drug Retailing,True
+613,Mainzer Aktien Bierbrauerei AG,MABG.F^H02,DE0006555006,4295868740,Frankfurt Stock Exchange,Consumer Non-Cyclicals,Food & Drug Retailing,True
+614,Otavi Minen AG,OTAG.F^I02,DE0006873003,4295869611,Frankfurt Stock Exchange,Basic Materials,Mineral Resources,True
+615,Joseph Voegele AG,JVOG.F^J02,DE0007658502,4295868927,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+616,Your Family Entertainment AG,RTVG.DE^I02,DE0007060204,4295869826,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+617,Your Family Entertainment AG,RTVGk.DE^E11,DE000A161N14,4295869826,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+618,Blaue Quellen Mineral Und Heil Brunnen AG,BQUG.F^I02,DE0007042004,4295868751,Frankfurt Stock Exchange,Consumer Non-Cyclicals,Food & Beverages,True
+619,EDOB Abwicklungs AG,ESCG_p.DE^J02,DE0005692131,4295869627,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+620,Michael Weinig AG,WEIG.F^J02,DE0007764805,4295868746,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+621,Otto Reichelt AG,REHG.F^J02,DE0007007908,4295869242,Frankfurt Stock Exchange,Consumer Non-Cyclicals,Food & Drug Retailing,True
+622,Aureum Realwert AG,TRBI.DE^K04,DE000A0N3FJ3,5000635365,Xetra,Financials,Banking & Investment Services,True
+623,Horten AG,HORG.F^K02,DE0006083702,4295868952,Frankfurt Stock Exchange,Consumer Cyclicals,Retailers,True
+624,Praktiker Bau Und Heimwerkermaerkte AG,PRBG.F^K02,DE0006943103,4295869262,Frankfurt Stock Exchange,Consumer Cyclicals,Retailers,True
+625,ABB AG,ABBG.F^K02,DE0005291009,4295890597,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+626,Ardagh Metal Packaging Germany GmbH,SMLG.F^L02,DE0007192304,4295870308,Frankfurt Stock Exchange,Basic Materials,Applied Resources,True
+627,Rieter Ingolstadt GmbH,SSAG.F^L02,DE0007208001,4295869430,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+628,Consors Discount Broker AG,CSOG.DE^L02,DE0005427009,4295869789,Xetra,Financials,Banking & Investment Services,True
+629,Pirelli Deutschland AG,VPIG.F^L02,DE0007602005,5000008680,Frankfurt Stock Exchange,Consumer Cyclicals,Automobiles & Auto Parts,True
+630,Naturenergie Hochrhein AG,KRFG.F^A03,DE0007019002,4295869939,Frankfurt Stock Exchange,,,True
+631,Gardena GmbH,GADG_p.DE^A03,DE0005852032,4295869193,Xetra,Financials,Investment Holding Companies,True
+632,EnBW Immobilienbeteiligungen GmbH (Pre-Reincorporation),SAMG.F^A03,DE0007305005,5000771353,Frankfurt Stock Exchange,Consumer Cyclicals,Retailers,True
+633,Massa AG,MASG.F^A03,DE0006579600,4295868898,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+634,Tecis Holding AG,TESG.DE^B03,DE0006211600,4295869726,Xetra,Financials,Banking & Investment Services,True
+635,Nuernberger Beteiligungs AG,NLVG.DE^B03,DE0008435900,4295868982,Xetra,Financials,Insurance,True
+636,Schaeffler Schweinfurt Beteiligungs GmbH,KFSG.DE^B03,DE0005754709,4295869272,Xetra,Industrials,Industrial Goods,True
+637,Hindrichs Auffermann AG,AUFG.F^D03,DE0006064009,4295868855,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+638,DB Mobility Logistics AG,SNSG.DE^E03,DE0007264301,4295869121,Xetra,Industrials,Transportation,True
+639,Neckarwerke Stuttgart GmbH,NEWG.F^F03,DE0006758006,4295869400,Frankfurt Stock Exchange,Utilities,Utilities,True
+640,Saint-Gobain Isover G+H AG,GZHG.F^F03,DE0005906705,4295869941,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+641,BUS Berzelius Umwelt Service AG,BUSG_p.DE^F03,DE0005285738,4295868866,Xetra,Industrials,Industrial & Commercial Services,True
+642,BUS Berzelius Umwelt Service AG,BUSG.DE^F03,DE0005285704,4295868866,Xetra,Industrials,Industrial & Commercial Services,True
+643,Gerresheimer Glas GmbH,GERG.F^G03,DE0005873004,4295869542,Frankfurt Stock Exchange,Basic Materials,Applied Resources,True
+644,Solarworld AG,SWVKk.DE^H17,DE000A1YCMM2,4295869876,Xetra,Energy,Renewable Energy,True
+645,Sappi Ehingen AG,SWZG.F^G03,DE0007218703,4295868803,Frankfurt Stock Exchange,Basic Materials,Applied Resources,True
+646,Ruetgers GmbH,RUEG.F^H03,DE0007072001,4295869245,Frankfurt Stock Exchange,Basic Materials,Chemicals,True
+647,Brokat Technologies AG,BRJG.DE^G03,DE0005221907,4295869713,Xetra,Technology,Software & IT Services,True
+648,Scoliocare Orthomed GmbH,ROLG.F^G03,DE0005751002,4295869143,Frankfurt Stock Exchange,Healthcare,Healthcare Services & Equipment,True
+649,Sleepz AG,BTBB.DE^J21,DE000A2E3772,4295869847,Xetra,Consumer Cyclicals,Retailers,True
+650,SNP Schneider-Neureither & Partner SE,SHFG.DE,DE0007203705,5059947589,Xetra,Technology,Software & IT Services,False
+651,Barmag AG,BRGG.F^I03,DE0005165906,4295869145,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+652,Generali Beteiligungsund Verwaltungs-AG,VOVG.F^I03,DE0008404500,4298428014,Frankfurt Stock Exchange,Financials,Insurance,True
+653,Agor AG,DOOG.F^L12,DE0005546006,4295869518,Frankfurt Stock Exchange,Basic Materials,Mineral Resources,True
+654,Schnigge Wertpapierhandelsbank AG,SHBGk.DE^D05,DE0005532881,4295869890,Xetra,Financials,Banking & Investment Services,True
+655,Advanced Inflight Alliance AG,DVNG.DE^D14,DE0001262186,4295869884,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+656,Allweiler AG,AWPG.F^J03,DE0005034904,4295869359,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+657,Hypo Real Estate Holding GmbH,HRXG.DE^J09,DE0008027707,5058606250,Xetra,Financials,Banking & Investment Services,True
+658,Allweiler AG,AWPG_p.F^J03,DE0005034938,4295869359,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+659,Berliner Kraft Und Licht (Bewag) AG,BKLG.DE^J03,DE0005303002,4295868919,Xetra,Utilities,Utilities,True
+660,Hamburger Hochbahn AG,HHOG.F^K03,DE0008247008,4295869668,Frankfurt Stock Exchange,Industrials,Transportation,True
+661,Evonik Goldschmidt GmbH,GOLG.F^K03,DE0005893002,4298531017,Frankfurt Stock Exchange,Basic Materials,Chemicals,True
+662,Alcatel Lucent Deutschland AG,SELG.F^L03,DE0006619000,4295869213,Frankfurt Stock Exchange,Technology,Telecommunications Services,True
+663,INKA fuer Beteiligungen GmbH,BRAG.F^A04,DE0005251003,4295868825,Frankfurt Stock Exchange,Financials,Investment Holding Companies,True
+664,Edscha AG,EDHG.DE^C04,DE0005633002,4295869769,Xetra,Industrials,Industrial Goods,True
+665,Horizon Immobilien GmbH,KCHG.F^B04,DE0006350002,5001450385,Frankfurt Stock Exchange,Financials,Investment Holding Companies,True
+666,Otto Stumpf AG,STUG.F^B04,DE0007282006,4295869559,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+667,VCL Film + Medien AG,VFMG.DE^E11,DE0003304374,4295869829,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+668,Lieken GmbH,KAMG.DE^D04,DE0006280605,4295869499,Xetra,Consumer Non-Cyclicals,Food & Beverages,True
+669,transtec AG,TTCGn.DE^E11,DE0007241424,4295869277,Xetra,Technology,Software & IT Services,True
+670,Baum AG,BAMGnk.DE^E11,DE000A0AYX23,5000088770,Xetra,Industrials,Industrial & Commercial Services,True
+671,EM TV & Merchandising AG,ETVG.DE^D04,DE0005684807,5000639231,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+672,Sport1 Medien GmbH,EV4G.DE^I19,DE0009147207,4295870206,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+673,Thuega AG,TGAG.F^E04,DE0007481004,4295868871,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+674,PKV Vermoegensverwaltung AG,PKIG.F^E04,DE0005767008,4295869280,Frankfurt Stock Exchange,Financials,Collective Investments,True
+675,MIFA Mitteldeutsche Fahrradwerke AG,FW1G.DE^G08,DE000A0B95Y8,4295870199,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,True
+676,Diebold Nixdorf AG,WING.DE^E19,DE000A0CAYB2,4295870225,Xetra,Technology,Technology Equipment,True
+677,RLG Systems AG,CCRG.DE^E11,DE0007627200,4295869956,Xetra,Industrials,Industrial & Commercial Services,True
+678,Deutsche Postbank AG,DPBGn.DE^L15,DE0008001009,4295870015,Xetra,Industrials,Industrial & Commercial Services,True
+679,Brain Abwicklungsgesellschaft AG,BNIG.DE^F04,DE0005252506,4295869739,Xetra,Technology,Software & IT Services,True
+680,Wild Bunch AG,SENG.DE^G04,DE0007224404,4295869751,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+681,Mg Vermoegensverwaltungs AG,VDMG.F^G04,DE0007677007,4295869030,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+682,Wild Bunch AG,WBAHk.DE^L21,DE000A2TSU21,4295869751,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+683,NSI Asset AG,VMR1.F^E24,DE000A1RFHN7,4295869753,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+684,Krones AG,KRNG_p.DE^G04,DE0006335037,4295869981,Xetra,Industrials,Industrial Goods,True
+685,Alzchem Group AG,SFPG.DE^H04,DE0007271702,4295869849,Xetra,Basic Materials,Chemicals,True
+686,Buderus AG,BUDG.DE^H04,DE0005278006,4295869060,Xetra,Industrials,Industrial Goods,True
+687,Alzchem Group AG,ACT1.F,DE000A2YNT30,4295869849,Frankfurt Stock Exchange,Basic Materials,Chemicals,False
+688,Radeberger Gruppe Holding GmbH,BINB_p.F^H04,DE0007195034,4295869068,Frankfurt Stock Exchange,Consumer Non-Cyclicals,Food & Beverages,True
+689,Radeberger Gruppe Holding GmbH,BINB.F^H04,DE0007195000,4295869068,Frankfurt Stock Exchange,Consumer Non-Cyclicals,Food & Beverages,True
+690,Wynona 1837 GmbH,WBVG.F^L05,DE0008455007,5036174892,Frankfurt Stock Exchange,Financials,Insurance,True
+691,USU Ventures AG,OSPGk.DE^G24,DE000A0BVU28,4295870074,Xetra,Financials,Investment Holding Companies,True
+692,Deutsche Cannabis AG,FAMGk.DE^B13,DE000A0BVVK7,5037437721,Xetra,Financials,Banking & Investment Services,True
+693,Heinkel AG,HKLG.DE^I04,DE0006059009,4295869775,Xetra,Industrials,Industrial Goods,True
+694,Heinkel AG,HKLGk.DE^G07,DE000A0BVU51,4295869775,Xetra,Industrials,Industrial Goods,True
+695,Allianz Lebensversicherungs AG,ALLG.DE^L08,DE0008403007,4295868902,Xetra,Financials,Insurance,True
+696,DSL Holding AG,DSLG.DE^J04,DE0005560403,4295868828,Xetra,Financials,Banking & Investment Services,True
+697,Harbour Energy International GmbH,DEAG.F^J04,DE0005509004,4295869219,Frankfurt Stock Exchange,Energy,Energy - Fossil Fuels,True
+698,Vereins und Westbank AG,VHBG.F^K04,DE0008117003,4295869034,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+699,Solon Se,SOOG.DE^C13,DE0007471195,5000034176,Xetra,Energy,Renewable Energy,True
+700,InTiCa Systems SE,IS7.DE,DE0005874846,4295869115,Xetra,Industrials,Industrial Goods,False
+701,Heliad Equity Partners GmbH & Co KgaA,HPBGn.DE^J23,DE000A0L1NN5,4295868895,Xetra,Financials,Banking & Investment Services,True
+702,VTC Beteiligungen GmbH,IHUGk.DE^H08,DE000A0JCXJ8,5043460544,Xetra,Financials,Banking & Investment Services,True
+703,IMW Immobilien SE,GARGn.DE^E11,DE000A0BVWY6,5035571301,Xetra,Real Estate,Real Estate,True
+704,Prout AG,POUG.DE^L04,DE0006943608,4295869825,Xetra,Technology,Software & IT Services,True
+705,Prout AG,POUGk.DE^K08,DE000A0BVXK3,4295869825,Xetra,Technology,Software & IT Services,True
+706,Bremer Woll Kaemmerei AG,BWOG.F^L04,DE0005272009,4295869988,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+707,Bremer Woll Kaemmerei AG,BWOGk.DE^L04,DE000A0BVXQ0,4295869988,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+708,Klassik Radio AG,KA8Gn.DE,DE0007857476,4295870174,Xetra,Consumer Cyclicals,Cyclical Consumer Services,False
+709,plettac AG,PLTG.DE^L04,DE0006928203,4295869343,Xetra,Basic Materials,Mineral Resources,True
+710,Hach AG,HAHG_p.DE^A05,DE0006001738,4295868865,Xetra,Industrials,Industrial & Commercial Services,True
+711,Lanxess AG,LXSG.DE,DE0005470405,4295870205,Xetra,Basic Materials,Chemicals,False
+712,Eurobike AG,EUBG.DE^B05,DE0005706600,4295869165,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,True
+713,DEPFA Deutsche Pfandbriefbank AG,DPFG.DE^B05,DE0008047002,5000037742,Xetra,Financials,Banking & Investment Services,True
+714,Paion AG,PA8.DE^K23,DE000A3E5EG5,4295870315,Xetra,Healthcare,Pharmaceuticals & Medical Research,True
+715,Sky Deutschland AG,SKYDn.DE^I15,DE000SKYD000,4295869925,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+716,Conergy AG,CGYGk.DE^D14,DE000A1KRCK4,4295869666,Xetra,Energy,Renewable Energy,True
+717,Schnigge Capital Markets SE,SHBG.DE^E11,DE000A0EKK20,5067935720,Xetra,Financials,Banking & Investment Services,True
+718,Nordex SE,NDXG.DE,DE000A0D6554,5000667749,Xetra,Industrials,Industrial Goods,False
+719,Stollwerck GmbH,STLG.F^E05,DE0007280000,4295869610,Frankfurt Stock Exchange,Consumer Non-Cyclicals,Food & Beverages,True
+720,SPAR Handelsgesellschaft mbH,SPAG.F^D05,DE0007246902,4295868690,Frankfurt Stock Exchange,Consumer Non-Cyclicals,Food & Drug Retailing,True
+721,SPAR Handelsgesellschaft mbH,SPAG_p.DE^D05,DE0007246936,4295868690,Xetra,Consumer Non-Cyclicals,Food & Drug Retailing,True
+722,GEA AG,GEAG.F^E05,DE0005857007,4295868670,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+723,GEA AG,GEAG_p.F^E05,DE0005857031,4295868670,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+724,Sinn Leffers AG Zweigniederlassung Bochum,WHGG.F^E05,DE0007773004,4295869618,Frankfurt Stock Exchange,Consumer Cyclicals,Retailers,True
+725,Baden Wuerttembergische Bank unselbststaendige Anstalt der Landesbank Baden Wuerttemberg,WBKG.F^E05,DE0008125006,4295870285,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+726,Mobilcom Debitel AG,DBLG.DE^E05,DE0005408009,4295869745,Xetra,Technology,Telecommunications Services,True
+727,Augusta Technologie AG,ABEGk.DE^C15,DE000A0D6612,4295869446,Xetra,Technology,Technology Equipment,True
+728,Augusta Technologie AG,ABEG.DE^E05,DE0005088603,4295869446,Xetra,Technology,Technology Equipment,True
+729,Brain Force Financial Solutions AG,NSWGk.DE^G06,DE000A0D66P3,4295869776,Xetra,Technology,Software & IT Services,True
+730,MTU Aero Engines AG,MTXGn.DE,DE000A0D9PT0,4295868681,Xetra,Industrials,Industrial Goods,False
+731,Brain Force Financial Solutions AG,NSWG.DE^F05,DE0006790009,4295869776,Xetra,Technology,Software & IT Services,True
+732,Caatoosee AG,CATG.DE^A12,DE000A1E8HY7,4295869607,Xetra,Technology,Software & IT Services,True
+733,burgbad AG,BUBG.DE^J10,DE000A0EKLW0,4295869194,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+734,Rheinmetall AG,RHMG_p.DE^F05,DE0007030033,4295869123,Xetra,Industrials,Industrial Goods,True
+735,Gigaset AG,GGS.DE^I23,DE0005156004,4295869037,Xetra,Technology,Technology Equipment,True
+736,KWS SAAT SE & Co KgaA,KWSG.DE,DE0007074007,5070769329,Xetra,Consumer Non-Cyclicals,Food & Beverages,False
+737,Intershop Communications AG,ISHG.DE^G05,DE0007472920,4295869718,Xetra,Technology,Software & IT Services,True
+738,Intershop Communications AG,ISH1k.DE,DE000A254211,4295869718,Xetra,Technology,Software & IT Services,False
+739,Hoechst GmbH,HOEG.DE^G05,DE0005758007,4295869204,Xetra,Healthcare,Pharmaceuticals & Medical Research,True
+740,Ixos Software AG,IXSG.DE^G05,DE0005061501,4295869706,Xetra,Technology,Software & IT Services,True
+741,Leica Camera AG,LCAGk.F^I12,DE000A0EPU98,4295869169,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+742,Leica Camera AG,LCAGk.DE^E11,DE000A0EPU98,4295869169,Xetra,Technology,Technology Equipment,True
+743,GfV Gesellschaft fuer Vermoegensverwaltung mbH,HAPG.F^H05,DE0006034002,5035152628,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+744,Kleindienst Datentechnik AG,KLDG.DE^I05,DE0006290208,4295869830,Xetra,Technology,Software & IT Services,True
+745,Rhoen Klinikum AG,RHKG_p.DE^I05,DE0007042335,4295868796,Xetra,Healthcare,Healthcare Services & Equipment,True
+746,Interhyp AG,IYPGn.DE^E11,DE0005121701,4295869962,Xetra,Industrials,Industrial & Commercial Services,True
+747,Brau und Brunnen GmbH,BBAG.DE^J05,DE0005550305,4298427993,Xetra,Consumer Non-Cyclicals,Food & Beverages,True
+748,Bosch Solar Services GmbH,ES6G.DE^I09,DE0006627532,4295869920,Xetra,Energy,Renewable Energy,True
+749,Global PVQ SE,QCEG.DE^J12,DE0005558662,5000048419,Xetra,Energy,Renewable Energy,True
+750,Ernst Russ AG,ERAGn.DE,DE000A161077,4295869767,Xetra,Financials,Banking & Investment Services,False
+751,ZEAL Network SE,TIMAn.DE,DE000ZEAL241,5077911368,Xetra,Consumer Cyclicals,Cyclical Consumer Services,False
+752,Kling Jelko Wertpapierhandelsbank AG,KJDG.DE^J05,DE0006291404,5000007194,Xetra,Financials,Banking & Investment Services,True
+753,Laiqon AG,LQAG.DE,DE000A12UP29,4295870019,Xetra,Financials,Banking & Investment Services,False
+754,Shire Orphan Therapies GmbH,JI4G.DE^L09,DE0006787476,5035969742,Xetra,Healthcare,Pharmaceuticals & Medical Research,True
+755,Contigas Deutsche Energie AG,DCGG.F^K05,DE0005504005,4295868929,Frankfurt Stock Exchange,Utilities,Utilities,True
+756,Thielert AG,T3CGn.DE^E11,DE0006052079,4295869124,Xetra,Industrials,Industrial Goods,True
+757,Praktiker AG,PRAG.DE^B17,DE000A0F6MD5,4295870208,Xetra,Consumer Cyclicals,Retailers,True
+758,Camerit AG,RTMGk.DE^A15,DE000HNC2059,4295870323,Xetra,Financials,Banking & Investment Services,True
+759,Felten & Guilleaume AG,FELG.F^K05,DE0005766901,4295868673,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+760,Kaufhalle GmbH,KHAG.F^K05,DE0006281306,5018346541,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+761,Equitrust GmbH,WDGG.DE^C08,DE0007776007,4295869420,Xetra,Financials,Banking & Investment Services,True
+762,TAG Colonia Immobilien AG,KBUG.DE^J16,DE0006338007,5040703768,Xetra,Real Estate,Real Estate,True
+763,4Sc AG,VSCk.DE^B23,DE000A3E5C40,4295870097,Xetra,Healthcare,Pharmaceuticals & Medical Research,True
+764,Walter AG,WATG.DE^L05,DE0007752909,4295868802,Xetra,Industrials,Industrial Goods,True
+765,ADLW Abwicklungs GmbH,DLWG.F^A06,DE0005518005,5000668987,Frankfurt Stock Exchange,Basic Materials,Chemicals,True
+766,Ava Allgemeine Handelsgesellschaft Der Verbraucher AG,AVAG.DE^B06,DE0005088504,5000403818,Xetra,Consumer Non-Cyclicals,Food & Drug Retailing,True
+767,Primion Technology AG,P4TG.DE^D15,DE0005117006,4295870281,Xetra,Industrials,Industrial & Commercial Services,True
+768,7C Solarparken AG,HRPG.DE^A12,DE000A11QW68,5044364059,Xetra,Utilities,Utilities,True
+769,Electronics Line 3000 Ltd,E28.DE^K15,IL0010905052,4295874988,Xetra,Technology,Technology Equipment,True
+770,Sonae Arauco Deutschland GmbH,GLUG_p.F^C06,DE0005887236,4295868697,Frankfurt Stock Exchange,Basic Materials,Applied Resources,True
+771,Patrizia SE,PATGn.DE,DE000PAT1AG3,4295870245,Xetra,Real Estate,Real Estate,False
+772,Magix AG,MGXGn.DE^L14,DE0007220782,4295870220,Xetra,Technology,Software & IT Services,True
+773,Wacker Chemie AG,WCHG.DE,DE000WCH8881,4295869118,Xetra,Basic Materials,Chemicals,False
+774,Dresdner Factoring AG (Pre-Merger),D2FG.DE^G15,DE000DFAG997,4295870257,Xetra,Financials,Banking & Investment Services,True
+775,Branicks Group AG,BRNKn.DE,DE000A1X3XX4,4295869146,Xetra,Real Estate,Real Estate,False
+776,Viscom SE,V6CG.DE,DE0007846867,4295870016,Xetra,Industrials,Industrial Goods,False
+777,Abwicklungsgesellschaft Biogas 1 AG,SB1Gn.DE^B11,DE000SBGS111,4295869144,Xetra,Energy,Renewable Energy,True
+778,Vivanco Gruppe GmbH,VVAG.DE^F06,DE0007602906,4295869765,Xetra,Technology,Technology Equipment,True
+779,Vivanco Gruppe GmbH,VVAGk.DE^E11,DE000A1E8G88,4295869765,Xetra,Technology,Technology Equipment,True
+780,HPI AG,CEWGn.DE^E06,DE0005082226,4295869729,Xetra,Technology,Technology Equipment,True
+781,Bremer Vulkan Verbund AG,BVUG.F^F06,DE0005271001,4295868668,Frankfurt Stock Exchange,Industrials,Transportation,True
+782,Heyde AG,HEYG.DE^E11,DE0006026701,4295869690,Xetra,Technology,Software & IT Services,True
+783,10tacle studios AG,T1CG.DE^E11,DE000TACL107,4295869258,Xetra,Technology,Software & IT Services,True
+784,Terex Material Handling & Port Solutions AG,D9CGn.DE^F12,DE000DCAG010,4295870327,Xetra,Industrials,Industrial Goods,True
+785,Phoenix Solar AG,PS4G.DE^G18,DE000A0BVU93,4295869122,Xetra,Energy,Renewable Energy,True
+786,Kloeckner & Co SE,KCOGn.DE^H26,DE000KC01000,4295868688,Xetra,Basic Materials,Mineral Resources,True
+787,Bauer AG,B5AG.DE^F23,DE000A40ETC9,4295870316,Xetra,Basic Materials,Mineral Resources,True
+788,Holsten Brauerei AG,HSTG.DE^G06,DE0006081003,4295869092,Xetra,Consumer Non-Cyclicals,Food & Beverages,True
+789,Eurofins MWG Holding GmbH,NWUGk.DE^H09,DE000A0EPUF5,4295869861,Xetra,Healthcare,Pharmaceuticals & Medical Research,True
+790,AS Abwicklung und Solar-Service GmbH,AS1Gn.DE^C15,DE000A0JM634,5082541281,Xetra,Utilities,Utilities,True
+791,Deutsche Wohnen SE,DWNGn.DE^I14,DE0006283302,5062386053,Xetra,Real Estate,Real Estate,True
+792,Deutsche Wohnen SE,DWNG.DE,DE000A0HN5C6,5062386053,Xetra,Real Estate,Real Estate,False
+793,emQtec AG,EMQG.DE^G17,DE000A0JL529,4295869560,Xetra,Basic Materials,Chemicals,True
+794,Tarkett Holding GmbH,TAGG.DE^G06,DE0007002008,4295869670,Xetra,Consumer Cyclicals,Retailers,True
+795,OVB Holding AG,O4BG.DE,DE0006286560,4295869566,Xetra,Financials,Banking & Investment Services,False
+796,McKesson Europe AG,CLSGn.DE^D17,DE000CLS1001,4295869587,Xetra,Healthcare,Pharmaceuticals & Medical Research,True
+797,Itn Nanovation AG,I7NG.DE^C21,DE000A0JL461,4295868884,Xetra,Utilities,Utilities,True
+798,HSBC Trinkaus & Burkhardt GmbH,TUBG.F^H06,DE0008115106,4295869032,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+799,Evonik Operations GmbH,DGXG.DE^I06,DE0005421903,4295869297,Xetra,Basic Materials,Chemicals,True
+800,Arquana International Print & Media AG,NIEG.DE^E11,DE0006781008,4295868797,Xetra,Industrials,Industrial & Commercial Services,True
+801,Intelis AG,AR5G.DE^E11,DE000A0J3M03,4295870280,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+802,Lang & Schwarz AG,LUS1n.DE,DE000LS1LUS9,4295868665,Xetra,Financials,Banking & Investment Services,False
+803,CropEnergies AG,CE2G.DE^B24,DE000A0LAUP1,4295869097,Xetra,Energy,Renewable Energy,True
+804,GWB Immobilien AG,G7BG.DE^A14,DE000A0JKHG0,4295870087,Xetra,Real Estate,Real Estate,True
+805,Centrosolar Group AG,C3OAk.DE^A15,DE000A1TNS13,4295868693,Xetra,Energy,Renewable Energy,True
+806,Verbio SE,VBKG.DE,DE000A0JL9W6,4295869108,Xetra,Energy,Renewable Energy,False
+807,hotel de AG,HTLGn.DE^J13,DE0006910938,4295870215,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+808,Ericsson Holding GmbH,LHSG.DE^B10,DE000LHS4000,5001450633,Xetra,Financials,Investment Holding Companies,True
+809,Delticom AG,DEXGn.DE,DE0005146807,4295870223,Xetra,Technology,Software & IT Services,False
+810,HAHN-Immobilien-Beteiligungs AG,H4IG.DE^C15,DE0006006703,4295870299,Xetra,Real Estate,Real Estate,True
+811,Petrotec AG,PT8G.DE^E11,DE000PET1111,4295870140,Xetra,Energy,Renewable Energy,True
+812,Heidelberg Pharma AG,HPHA.DE,DE000A11QVV0,5057984015,Xetra,Healthcare,Pharmaceuticals & Medical Research,False
+813,Francono Rhein-Main SARL,F7RG.DE^F09,DE000A0J2LC4,5086682765,Xetra,Financials,Investment Holding Companies,True
+814,VGT Industrie AG,VGTG.DE^F07,DE0007615601,4295868808,Xetra,Industrials,Industrial Goods,True
+815,RHI Magnesita Deutschland AG,DIDG.DE^H10,DE0005537005,4295868918,Xetra,Basic Materials,Mineral Resources,True
+816,Irene Propco 6 Deutschland Immobilien GmbH,SDKG.DE^C09,DE0007276008,5000667922,Xetra,Real Estate,Real Estate,True
+817,Kaessbohrer Gelaendefahrzeug AG,KAEG.DE^E11,DE0006262009,4295869720,Xetra,Industrials,Industrial & Commercial Services,True
+818,Francotyp Postalia Holding AG,FPHG.DE^H25,DE000FPH9000,5057947436,Xetra,Technology,Software & IT Services,True
+819,VGT Industrie AG,VGTG.F^F07,DE0007615601,4295868808,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+820,Opta Germany Holding GmbH,SK1Gn.DE^A19,DE000SKWM021,5059015396,Xetra,Basic Materials,Mineral Resources,True
+821,New Work SE,NWOn.DE^H24,DE000NWRK013,5057826585,Xetra,Technology,Software & IT Services,True
+822,Youniq AG (Pre-Merger),YOUG.DE^B16,DE000A0B7EZ7,5000631716,Xetra,Real Estate,Real Estate,True
+823,Symrise AG,SY1G.DE,DE000SYM9999,4295868896,Xetra,Basic Materials,Chemicals,False
+824,Weru GmbH,WERG.F^L06,DE0007771909,5041083586,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+825,Phoenix AG,PHRG.DE^A07,DE0006031008,4295869117,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,True
+826,Ariston Real Estate AG,A3EG.DE^A15,DE000A2AAAA4,4297771885,Xetra,Real Estate,Real Estate,True
+827,SZ Testsysteme AG,SZTG.DE^B07,DE0005067300,4295869819,Xetra,Industrials,Industrial Goods,True
+828,mobilcom AG,MOBG.DE^C07,DE0006622400,4297824039,Xetra,Technology,Telecommunications Services,True
+829,freenet AG,FNTGn.DE,DE000A0Z2ZZ5,5000063237,Xetra,Technology,Telecommunications Services,False
+830,KROMI Logistik AG,K1RG.DE^F23,DE000A0KFUJ5,4295870307,Xetra,Industrials,Industrial Goods,True
+831,HanseYachts AG,H9YG.DE^A13,DE000A0KF6M8,4295870101,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+832,Polis Immobilien AG,PQLG.DE^J15,DE0006913304,4295870224,Xetra,Real Estate,Real Estate,True
+833,Wuensche AG,WUNG.DE^C07,DE0007798100,4295870282,Xetra,Consumer Cyclicals,Retailers,True
+834,FamiCord AG,V3Vn.DE,DE000A0BL849,4295870197,Xetra,Healthcare,Healthcare Services & Equipment,False
+835,Accentro Real Estate AG,A4Y.DE^G25,DE000A40ZVK3,4295868695,Xetra,Real Estate,Real Estate,True
+836,Alstria SARL,AOXG.DE^E25,DE000A0LD2U1,6000029033,Xetra,Industrials,Industrial & Commercial Services,True
+837,Beta Systems Software AG,SPTG.DE^D07,DE000A0NK3W4,4295869730,Xetra,Technology,Software & IT Services,True
+838,Beta Systems Software AG,SPTG.DE^E11,DE000A0NK3W4,4295869730,Xetra,Technology,Software & IT Services,True
+839,SMT Scharf AG,S188n.DE,DE000A3DRAE2,4295870023,Xetra,Basic Materials,Mineral Resources,False
+840,1&1 Versatel GmbH,VTWGn.DE^C12,DE000A0M2ZK2,5038052394,Xetra,Technology,Telecommunications Services,True
+841,Deutscher Eisenhandel Aktiengesellschaft,DEHG.F^D07,DE0005508006,4295869378,Frankfurt Stock Exchange,Basic Materials,Mineral Resources,True
+842,CompuGroup Medical SE & Co KgaA,COP1n.DE^F25,DE000A288904,5050307430,Xetra,Technology,Software & IT Services,True
+843,Nextevolution GmbH,N5EG.DE^E11,DE000A0JC0A2,4295869314,Xetra,Technology,Software & IT Services,True
+844,Allbecon AG,ABXG.DE^E07,DE0005086003,5000057948,Xetra,Industrials,Industrial & Commercial Services,True
+845,Wacker Neuson SE,WACGn.DE,DE000WACK012,5000041553,Xetra,Industrials,Industrial Goods,False
+846,Olympia Flexgroup AG,AOUG.DE^B11,DE000A0LBKV8,4295870175,Xetra,Industrials,Industrial & Commercial Services,True
+847,DF Deutsche Forfait AG,DFTKn.DE,DE000A2AA204,5059956024,Xetra,Financials,Banking & Investment Services,False
+848,SFC Energy AG,F3CG.DE,DE0007568578,4295870177,Xetra,Energy,Renewable Energy,False
+849,Gerresheimer AG,GXIG.DE,DE000A0LD6E6,4295870260,Xetra,Healthcare,Healthcare Services & Equipment,False
+850,Peopleware GmbH,IVXG.DE^B24,DE0005859698,4295870080,Xetra,Technology,Software & IT Services,True
+851,CBB Holding AG,COBG.F^F07,DE0005444004,4295869366,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+852,Vtg GmbH,VT9G.DE^D19,DE000VTG9999,4295870238,Xetra,Industrials,Transportation,True
+853,Rolls Royce Power Systems AG,TGMG.DE^C12,DE000A0N4P43,5000064208,Xetra,Industrials,Industrial Goods,True
+854,AXA Konzern AG,COLG.F^G07,DE0008410002,4295868942,Frankfurt Stock Exchange,Financials,Insurance,True
+855,AXA Konzern AG,COLG_p.F^G07,DE0008410036,4295868942,Frankfurt Stock Exchange,Financials,Insurance,True
+856,Zhongde Waste Technology AG,ZEFG.DE^A20,DE000ZDWT018,5037452347,Xetra,Energy,Renewable Energy,True
+857,Envitec Biogas AG,ETGG.DE,DE000A0MVLS8,4295868679,Xetra,Utilities,Utilities,False
+858,Homag Group AG,HG1G.DE^H15,DE0005297204,4295869787,Xetra,Industrials,Industrial Goods,True
+859,Kaufring AG,KAUG.F^G07,DE0006290703,4295868945,Frankfurt Stock Exchange,Consumer Cyclicals,Retailers,True
+860,Gold Zack AG,GOZGn.DE^G07,DE0007686826,4295869376,Xetra,Financials,Banking & Investment Services,True
+861,AGIV Real Estate AG,AFIG.DE^G07,DE0006911324,4295870200,Xetra,Real Estate,Real Estate,True
+862,K&M Moebel AG,KUMG.DE^G07,DE0006303001,4295869509,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+863,Varta AG,VARGk.F^K12,DE000A0TGJ55,4295869134,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+864,Varta AG,VARGk.DE^E11,DE000A0TGJ55,4295869134,Xetra,Industrials,Industrial Goods,True
+865,Ecotel Communication AG,E4CG.DE,DE0005854343,4295870032,Xetra,Technology,Telecommunications Services,False
+866,Dr Scheller Cosmetics AG,DOSG.DE^H07,DE0007201303,4295869781,Xetra,Consumer Non-Cyclicals,Personal & Household Products & Services,True
+867,Rheinmetall Automotive AG,KPGG.DE^J07,DE0007037905,4295869283,Xetra,Consumer Cyclicals,Retailers,True
+868,Centrotherm International AG,CTNG.DE^F13,DE000A1TNMM9,4295868689,Xetra,Energy,Renewable Energy,True
+869,Lobster Network Storage AG,LOBG.DE^J07,DE0005082903,4295869510,Xetra,Financials,Collective Investments,True
+870,Leonardo Venture GmbH & Co KGaA,L3VG.DE^J10,DE0005878763,4295870204,Xetra,Financials,Banking & Investment Services,True
+871,Hypoport SE,HYQGn.DE,DE0005493365,5073957819,Xetra,Technology,Financial Technology (Fintech) & Infrastructure,False
+872,Demire Deutsche Mittelstand Real Estate AG,DMRE.DE,DE000A0XFSF0,5035081655,Xetra,Real Estate,Real Estate,False
+873,aconnic AG,CFCG.DE,DE000A0LBKW6,5038062657,Xetra,Industrials,Industrial Goods,False
+874,Hamburger Hafen und Logistik AG,HHFGn.DE,DE000A0S8488,4295870241,Xetra,Industrials,Transportation,False
+875,Wella AG,WADG.DE^K07,DE0007765604,4295869641,Xetra,Consumer Non-Cyclicals,Personal & Household Products & Services,True
+876,Wella AG,WADG_p.DE^K07,DE0007765638,4295869641,Xetra,Consumer Non-Cyclicals,Personal & Household Products & Services,True
+877,TAG NRW-Wohnimmobilien & Beteiligungsgesellschaft mbH,4FRG.DE^I12,DE000A0KFRM5,5037553573,Xetra,Real Estate,Real Estate,True
+878,Azego AG,ACGG.DE^D11,DE000A0PNL64,4295869850,Xetra,Technology,Technology Equipment,True
+879,Fair Value REIT-AG,FVIG.DE^F18,DE000A0MW975,4297709048,Xetra,Real Estate,Real Estate,True
+880,Asian Bamboo AG,5ABG.DE^D16,DE000A0M6M79,4298014956,Xetra,Basic Materials,Applied Resources,True
+881,Mevis Medical Solutions AG,M3VGn.DE,DE000A0LBFE4,4297670730,Xetra,Healthcare,Healthcare Services & Equipment,False
+882,Franconofurt AG,FFMG.DE^G14,DE000A2NBP56,4295870076,Xetra,Real Estate,Real Estate,True
+883,BHW Holding GmbH,BHWH.DE^B08,DE0005223903,5039620102,Xetra,Financials,Investment Holding Companies,True
+884,Refugium Holding AG,REFG.DE^C08,DE0007007106,4295869267,Xetra,Real Estate,Real Estate,True
+885,Mobotix AG,MBQGn.DE,DE0005218309,4297654036,Xetra,Technology,Technology Equipment,False
+886,Meyer Burger (Germany) GmbH,R8RG.DE^L11,DE000A0JCZ51,5083483265,Xetra,Technology,Technology Equipment,True
+887,Isra Vision Parsytec AG,PAQG.DE^E11,DE000A0JQ4J9,4295869845,Xetra,Technology,Technology Equipment,True
+888,Vattenfall Europe AG,VTTG.DE^D08,DE0006012008,4295870331,Xetra,Utilities,Utilities,True
+889,IFM Immobilien AG,IFMG.DE^L15,DE000A0JDU97,4295870221,Xetra,Real Estate,Real Estate,True
+890,Infor Business Solutions AG,IFRGn.DE^D08,DE0006225402,4295869793,Xetra,Technology,Software & IT Services,True
+891,ANDRITZ Deutschland Holding GmbH,SCUG_p.DE^F08,DE0007210635,4295869762,Xetra,Industrials,Industrial Goods,True
+892,GK Software SE,GKSG.DE^H23,DE000A40S3V1,5060562118,Xetra,Technology,Software & IT Services,True
+893,MBB SE,MBBG.DE,DE000A0ETBQ4,5045512657,Xetra,Industrials,Industrial & Commercial Services,False
+894,Eurofins Genescan Holding GmbH,GEPGk.DE^B10,DE000A0Z1LZ7,5037588040,Xetra,Basic Materials,Chemicals,True
+895,DIS AG,DDEG.DE^F08,DE0005016901,4295869465,Xetra,Industrials,Industrial & Commercial Services,True
+896,ANDRITZ Deutschland Holding GmbH,SCUGe.DE^J14,DE000A0V9A22,4295869762,Xetra,Industrials,Industrial Goods,True
+897,SMA Solar Technology AG,S92G.DE,DE000A0DJ6J9,4298052237,Xetra,Technology,Technology Equipment,False
+898,Manz AG,M5ZG.DE^L24,DE000A0JQ5U3,4295870006,Xetra,Technology,Technology Equipment,True
+899,Sachsenring Automobiltechnik AG,SRGG.DE^G08,DE0007162208,4295869266,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,True
+900,Jil SAnder AG,JSAG_p.F^G08,DE0007164030,4295868874,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+901,Knorr Capital Partner AG,KCPGn.DE^H08,DE0007686123,4295869800,Xetra,Financials,Collective Investments,True
+902,Ehlebracht AG,EHLG_p.DE^I08,DE0005649131,4295868844,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+903,UniCredit Bank GmbH,HVMG.DE^I08,DE0008022005,5000048673,Xetra,Financials,Banking & Investment Services,True
+904,Elanix Biotechnologies AG,PFTGk.DE^E11,DE000A0WMJQ4,5049103068,Xetra,Healthcare,Pharmaceuticals & Medical Research,True
+905,Bayer Pharma AG,SCHG.DE^I08,DE0007172009,4295869029,Xetra,Healthcare,Pharmaceuticals & Medical Research,True
+906,systaic AG,SJKG.DE^B12,DE000A0JKYP6,4295870180,Xetra,Energy,Renewable Energy,True
+907,Deutsche Hypothekenbank AG,HHYG.F^J08,DE0008042003,4295869886,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+908,Kinowelt Medien AG,KNMG.DE^K08,DE0006285901,4295869493,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+909,General Reinsurance AG,KRVG.F^B09,DE0008422007,4295869971,Frankfurt Stock Exchange,Financials,Insurance,True
+910,General Reinsurance AG,KRVGa.F^B09,DE0008422023,4295869971,Frankfurt Stock Exchange,Financials,Insurance,True
+911,Hamatech AG,DVDG.DE^C09,DE0007309007,4295869801,Xetra,Technology,Technology Equipment,True
+912,RSE Grundbesitz und Beteiligungs AG,RINGb.DE^C09,DE0008292079,4295868867,Xetra,Real Estate,Real Estate,True
+913,DBV Holding AG,DBVG.F^D09,DE0008416900,4295869047,Frankfurt Stock Exchange,Financials,Insurance,True
+914,Yoc AG,YOCG.DE,DE0005932735,4295870041,Xetra,Technology,Software & IT Services,False
+915,mwb Fairtrade Wertpapierhandelsbank AG,MWBG.DE^F09,DE000A3EYLC7,4295869770,Xetra,Financials,Banking & Investment Services,True
+916,Sumida AG,VOEG.DE^H09,DE0007659302,4295868762,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,True
+917,Sumida AG,VOEG_p.DE^H09,DE0007659336,4295868762,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,True
+918,UCB Pharma GmbH,SRZG.DE^H09,DE0007221905,5035926872,Xetra,Healthcare,Pharmaceuticals & Medical Research,True
+919,Plenum AG,PLEGk.DE^I09,DE000A161Z44,5040701011,Xetra,Industrials,Industrial & Commercial Services,True
+920,Bayer AG,BAYGn.DE,DE000BAY0017,4295869217,Xetra,Healthcare,Pharmaceuticals & Medical Research,False
+921,Maxdata AG,MXAG.DE^J09,DE0006581309,4295869817,Xetra,Technology,Technology Equipment,True
+922,BorgWarner Ludwigsburg GmbH,BZLG.DE^J09,DE0005072102,5000717004,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,True
+923,Vtion Wireless Technology AG,V33G.DE^H16,DE000CHEN993,4296190341,Xetra,Technology,Telecommunications Services,True
+924,KPS AG,HACGn.DE,DE000A1A6V48,4295869867,Xetra,Technology,Software & IT Services,False
+925,SHS Viveon AG,SHSGk.DE^G24,DE000A0XFWK2,4295869815,Xetra,Technology,Software & IT Services,True
+926,Zooplus SE,ZO1G.DE^A22,DE0005111702,4298015227,Xetra,Consumer Cyclicals,Retailers,True
+927,Cor AG Financial Technologies,COCG.DE^J09,DE0005083208,4295869725,Xetra,Technology,Software & IT Services,True
+928,Agennix AG,AGXG.DE^H14,DE000A1A6XX4,5000489950,Xetra,Healthcare,Pharmaceuticals & Medical Research,True
+929,Edel SE & Co KgaA,EDLG.DE,DE0005649503,5068320502,Xetra,Consumer Cyclicals,Cyclical Consumer Services,False
+930,Curtis 1000 Europe AG,CEUG.DE^A11,DE0005431001,4295869921,Xetra,Basic Materials,Applied Resources,True
+931,Vestcorp AG,VESGn.DE^E11,DE000A0Z2334,5001230246,Xetra,Financials,Investment Holding Companies,True
+932,Baader Bank AG,BLMG.DE,DE0005088108,4295869161,Xetra,Financials,Banking & Investment Services,False
+933,Kulmbacher Brauerei AG,KULG.F^A10,DE0007007007,4295868729,Frankfurt Stock Exchange,Consumer Non-Cyclicals,Food & Beverages,True
+934,Mensch und Maschine Software SE,MUMG.DE,DE0006580806,5000071466,Xetra,Technology,Software & IT Services,False
+935,eValue Ventures AG,XACn.DE^E13,DE000A1RFM45,4295869528,Xetra,Financials,Banking & Investment Services,True
+936,Kabel Deutschland Holding AG,KD8Gn.DE^D16,DE000KD88880,5000668799,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+937,Tom Tailor Holding SE,TTIGn.DE^L20,DE000A0STST2,5068323815,Xetra,Consumer Cyclicals,Retailers,True
+938,Brenntag SE,BNRGn.DE,DE000A1DAHH0,5059963032,Xetra,Basic Materials,Chemicals,False
+939,Joyou AG,JY8G.DE^G15,DE000A0WMLD8,5000685745,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+940,KHD Humboldt Wedag International AG,KWGG.DE,DE0006578008,4295869495,Xetra,Industrials,Industrial Goods,False
+941,Deutsche Effecten und Wechsel Beteiligungsgesellschaft AG,EFF0k.F,DE000A41YCR9,4295868774,Frankfurt Stock Exchange,Financials,Investment Holding Companies,False
+942,Winkler und Duennebier GmbH,WDBG.DE^E10,DE0007790008,5037611441,Xetra,Industrials,Industrial Goods,True
+943,Real AG,BJUGn.F^H10,DE000A0N4R25,4295869002,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+944,Draegerwerk AG & Co KGaA,DRWG.DE,DE0005550602,4295869101,Xetra,Healthcare,Healthcare Services & Equipment,False
+945,ERGO Group AG,ERGG.F^G10,DE0008418526,4295868950,Frankfurt Stock Exchange,Financials,Insurance,True
+946,SAG Solarstrom AG,SSOG.DE^E15,DE0007021008,4295869764,Xetra,Energy,Renewable Energy,True
+947,Stroeer SE & Co KgaA,SAXG.DE,DE0007493991,5050638558,Xetra,Consumer Cyclicals,Cyclical Consumer Services,False
+948,Elsa AG,ELSG.DE^G10,DE0005073605,4295869699,Xetra,Technology,Software & IT Services,True
+949,AdCapital AG,ADCG.DE^E11,DE0005214506,4295869306,Xetra,Financials,Banking & Investment Services,True
+950,ALTANA AG,ALTG.DE^H10,DE0007600801,4295869138,Xetra,Basic Materials,Chemicals,True
+951,Moebel Walther AG,MWAG_p.DE^I10,DE0006620933,4295869367,Xetra,Consumer Cyclicals,Retailers,True
+952,Moebel Walther AG,MWAG.DE^I10,DE0006620909,4295869367,Xetra,Consumer Cyclicals,Retailers,True
+953,Abwicklungsgesellschaft Innovativ digitale Medien AG,IDLGk.DE^I10,DE000A0L1NK1,4295869841,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+954,Actris GmbH,HNGG.F^J10,DE0006107006,5037477188,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+955,TA Triumph-Adler GmbH,TWNG.DE^J10,DE0007495004,5028044380,Xetra,Technology,Technology Equipment,True
+956,Isaria Wohnbau AG,JWBG.DE^H16,DE000A1E8H38,5001200920,Xetra,Real Estate,Real Estate,True
+957,IDS Scheer AG,IDRG.DE^L10,DE0006257009,4295869812,Xetra,Industrials,Industrial & Commercial Services,True
+958,Escom AG,ECMG.DE^A11,DE0006007206,4295868843,Xetra,Technology,Technology Equipment,True
+959,EDOB Abwicklungs AG,ESCG.DE^A11,DE0005692107,4295869627,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+960,LBBW Berlin Beteiligungs AG,BHHG.F^A11,DE0008029000,4295869044,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+961,Salzgitter Kloeckner Werke GmbH,KLKG.DE^A11,DE0006780000,5037627680,Xetra,Industrials,Industrial Goods,True
+962,Fresenius SE & Co. KGaA,FREG_p.DE^A11,DE0005785638,5001439044,Xetra,Healthcare,Healthcare Services & Equipment,True
+963,FOCUS & Kalkhoff Holding GmbH,DCTG.DE^A13,DE000A1H6HN1,5053445252,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+964,RIB Software GmbH,RIB.DE^D21,DE000A0Z2XN6,5055463506,Xetra,Technology,Software & IT Services,True
+965,CeoTronics Audio Video Data Communication AG,CEKG.DE^E11,DE0005407407,4295869731,Xetra,Technology,Technology Equipment,True
+966,Powerland AG,PWLD.DE^L15,DE000PLD5558,5028473703,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+967,Norma Group SE,NOEJ.DE,DE000A1H8BV3,5040056994,Xetra,Industrials,Industrial Goods,False
+968,Euromed AG,EUDG.DE^D11,DE0005706808,5000331537,Xetra,Healthcare,Healthcare Services & Equipment,True
+969,GSW Immobilien AG,GIBG.DE^G14,DE000GSW1111,5000686602,Xetra,Real Estate,Real Estate,True
+970,Micrologica AG,MLGG.DE^E11,DE0006623002,4295869702,Xetra,Technology,Software & IT Services,True
+971,Netlife AG,NTFG.DE^E11,DE0006763907,4295869838,Xetra,Technology,Software & IT Services,True
+972,Concord Investmentbank AG,CCFG.DE^E11,DE0005410203,4295869466,Xetra,Financials,Banking & Investment Services,True
+973,Saltus Technology AG,SASG.DE^E11,DE0007161002,4295869261,Xetra,Industrials,Industrial Goods,True
+974,SER Systems AG,SESG.DE^E11,DE0007241903,4295869263,Xetra,Technology,Software & IT Services,True
+975,Tria IT Solutions AG,TSXGk.DE^E11,DE000A0XYL53,4295869805,Xetra,Technology,Software & IT Services,True
+976,Sino German United AG,GEBG.DE^E11,DE000SGU8886,5050701258,Xetra,Consumer Non-Cyclicals,Food & Drug Retailing,True
+977,TDMi AG,ARXG.DE^E11,DE0005098008,4295869629,Xetra,Consumer Non-Cyclicals,Personal & Household Products & Services,True
+978,Odeon Film AG,ODEG.DE^E11,DE0006853005,5001639014,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+979,Mannheimer AG Holding,MAVG.DE^E11,DE0008428004,4295868963,Xetra,Financials,Insurance,True
+980,Computec Media AG,CMDG.DE^E11,DE0005441000,4295869723,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+981,Lintec Information Technologies AG,LICGk.DE^E11,DE000A0TGJ71,4295869700,Xetra,Technology,Technology Equipment,True
+982,Philipp Holzmann AG,HOZG.DE^E11,DE0006082001,4295870258,Xetra,Industrials,Industrial & Commercial Services,True
+983,Ceyoniq AG,CEEG.DE^E11,DE0005420004,4295869481,Xetra,Technology,Software & IT Services,True
+984,Sanacorp Pharmaholding AG,SNCG_p.DE^E11,DE000A2BPP70,4295869196,Xetra,Healthcare,Pharmaceuticals & Medical Research,True
+985,Pelikan AG,HEZG.DE^E11,DE0006053101,4295869574,Xetra,Basic Materials,Applied Resources,True
+986,Graphit Kropfmuehl AG,GKRG.DE^E11,DE0005896005,4295870270,Xetra,Basic Materials,Mineral Resources,True
+987,KAMPA AG,KPHG.DE^E11,DE0006269103,4295869556,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+988,Eyemaxx Real Estate AG,BTCGk.DE^E11,DE000A0V9L94,5035746080,Xetra,Real Estate,Real Estate,True
+989,Ahlers AG,AAHG_p.DE^E11,DE0005009732,4295868722,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+990,Tiptel AG,TIPT.DE^E11,DE0007483604,4295869414,Xetra,Technology,Technology Equipment,True
+991,WET Automotive Systems AG,WETG.DE^E11,DE0005081608,4295869533,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,True
+992,Prodacta AG,POAG.DE^E11,DE0007867301,4295869811,Xetra,Technology,Software & IT Services,True
+993,Informatec Integrated Information Systems AG,IFOG.DE^E11,DE0006222003,4295869703,Xetra,Technology,Software & IT Services,True
+994,Management Data Media Systems AG,MAFG.DE^E11,DE0006621303,4295869851,Xetra,Technology,Technology Equipment,True
+995,WMF AG,WMFG_p.DE^E11,DE0007803033,4295869141,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+996,mb Software AG,MBSG.DE^E11,DE0006583206,4295869693,Xetra,Technology,Software & IT Services,True
+997,Fritz Nols AG,FNGG.DE^E11,DE0005070908,4295869705,Xetra,Industrials,Industrial & Commercial Services,True
+998,Gontard & MetallBank AG,GMBG.DE^E11,DE0005890503,4295869802,Xetra,Financials,Banking & Investment Services,True
+999,Pongs & Zahn AG,PUZG.DE^E11,DE0006954001,4295868868,Xetra,Basic Materials,Chemicals,True
+1000,BSK 1818 Holding AG,BEBG.DE^E11,DE0008023227,5000006301,Xetra,Financials,Banking & Investment Services,True
+1001,VK MUeHLEN AG,VKLG.DE^E11,DE0007629008,4295868910,Xetra,Consumer Non-Cyclicals,Food & Beverages,True
+1002,Neschen AG,NSNG.DE^E11,DE0005021307,4295869758,Xetra,Basic Materials,Applied Resources,True
+1003,Creaton GmbH,CRNG_p.DE^E11,DE0005483036,4295869197,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+1004,Utimaco Safeware AG,UTIG.DE^E11,DE0007572406,5040272219,Xetra,Technology,Software & IT Services,True
+1005,Meta Wolf AG,MPSG.DE^E11,DE000A254203,4295869273,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+1006,Erwin Hymer Beteiligungs AG,HYMG.DE^E11,DE0006096704,4295869334,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+1007,BOeWE SYSTEC AG,BSYG.DE^E11,DE0005239701,4295869358,Xetra,Industrials,Industrial Goods,True
+1008,CINEMEDIA FILM AG GEYER WERKE,CMWG.DE^E11,DE0005433007,4295869748,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+1009,Comarch AG,FTMG.DE^E11,DE000A1KRMR8,4295869712,Xetra,Technology,Software & IT Services,True
+1010,WMF AG,WMFG.DE^E11,DE0007803009,4295869141,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+1011,infas Holding AG,HUZG.DE^E11,DE0006097108,4295869282,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+1012,ADC African Development Corporation AG,AZCGne.DE^A15,DE000A1E8NW9,5040248700,Xetra,Financials,Banking & Investment Services,True
+1013,Pferdewetten de AG,EMHn.F,DE000A2YN777,5000053507,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,False
+1014,AmaTech AG,TXAG.F^G20,DE0005192801,4295870158,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+1015,Panamax New Energy AG,ICPG.F,DE000A1R1C81,5057938860,Frankfurt Stock Exchange,Financials,Investment Holding Companies,False
+1016,Baum AG,BAMGnk.F^B15,DE000A0AYX23,5000088770,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+1017,Petrotec AG,PT8G.DE^J15,DE000PET1111,4295870140,Xetra,Energy,Renewable Energy,True
+1018,WMF AG,WMFG_p.F^C15,DE0007803033,4295869141,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+1019,Sanacorp Pharmaholding AG,SNCG_p.F^F16,DE000A2BPP70,4295869196,Frankfurt Stock Exchange,Healthcare,Pharmaceuticals & Medical Research,True
+1020,Philipp Holzmann AG,HOZG.F^D21,DE0006082001,4295870258,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+1021,Pelikan AG,HEZG.F^L17,DE0006053101,4295869574,Frankfurt Stock Exchange,Basic Materials,Applied Resources,True
+1022,Mannheimer AG Holding,MAVG.F^C13,DE0008428004,4295868963,Frankfurt Stock Exchange,Financials,Insurance,True
+1023,United Power Technology AG,UP7G.DE^H16,DE000A1EMAK2,5001203664,Xetra,Industrials,Industrial Goods,True
+1024,ArtStor AG,HHSG.F^G15,DE0005492862,4295870154,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+1025,KAMPA AG,KPHG.F^G20,DE0006269103,4295869556,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+1026,WCM Beteiligungs und Grundbesitz AG,WCMk.F^L24,DE000A1X3X33,4295868822,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+1027,m s Elektronik AG,MUSG.F^K20,DE0006617400,4295870070,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+1028,BOeWE SYSTEC AG,BSYG.F^K20,DE0005239701,4295869358,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+1029,WMF AG,WMFG.F^C15,DE0007803009,4295869141,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+1030,CDV Software Entertainment AG,OGGGk.F^K15,DE000A0MF053,4295870121,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+1031,IMW Immobilien SE,GARGn.F^I15,DE000A0BVWY6,5035571301,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+1032,VCL Film + Medien AG,VFMG.F^J13,DE0003304374,4295869829,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,True
+1033,Your Family Entertainment AG,RTVGn.F,DE000A161N14,4295869826,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,False
+1034,Readcrest Capital AG,EXJ0k.F,DE000A0LE3J1,4295869904,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,False
+1035,Kabel New Media AG,KNWG.F^J13,DE0006229503,4295869832,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+1036,Camelot Tele Communication Online AG iI,CTKG.F^C14,DE0005010896,4295869655,Frankfurt Stock Exchange,Technology,Telecommunications Services,True
+1037,Rinol AG,RILGk.F^B16,DE000A0HN404,4295869250,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+1038,Schnigge Capital Markets SE,SHBG.F^C15,DE000A0EKK20,5067935720,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+1039,Yellowfin Asset Management GmbH,ONVG.F^F15,DE0005461602,5083657814,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+1040,Enapter AG,H2OG.F,DE000A255G02,5073085259,Frankfurt Stock Exchange,Energy,Renewable Energy,False
+1041,Synaxon AG,PCSG.F^J15,DE0006873805,4295869879,Frankfurt Stock Exchange,Consumer Cyclicals,Retailers,True
+1042,Tiscon AG,TIS0.F,DE000A409732,4295869907,Frankfurt Stock Exchange,Consumer Cyclicals,Retailers,False
+1043,Energiekontor AG,EKTG.F,DE0005313506,4295870139,Frankfurt Stock Exchange,Utilities,Utilities,False
+1044,TTL Beteiligungs und Grundbesitz AG,TTOG.F,DE0007501009,4295869860,Frankfurt Stock Exchange,Real Estate,Real Estate,False
+1045,RLG Systems AG,CCRG.F^G15,DE0007627200,4295869956,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+1046,Advanced Photonics Technologies AG,AP8Gk.F^C13,DE000A0AM9S2,4295869300,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+1047,Path2 Hydrogen AG,PTHH.F,DE000A1A6WB2,5059956752,Frankfurt Stock Exchange,Technology,Financial Technology (Fintech) & Infrastructure,False
+1048,VK MUeHLEN AG,VKLG.F^F14,DE0007629008,4295868910,Frankfurt Stock Exchange,Consumer Non-Cyclicals,Food & Beverages,True
+1049,Cycos AG,YOSG.F^A15,DE0007700205,4295870120,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+1050,Erwin Hymer Beteiligungs AG,HYMG.F^F13,DE0006096704,4295869334,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+1051,Turbon AG,TURG.F,DE0007504508,4295869424,Frankfurt Stock Exchange,Technology,Technology Equipment,False
+1052,Maier + Partner AG,MPRKk.F^K21,DE000A1MMCY2,4295869565,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+1053,Abwicklungsgesellschaft Roesch Medizintechnik AG,RSBG.F^I17,DE0005291405,4295870060,Frankfurt Stock Exchange,Healthcare,Healthcare Services & Equipment,True
+1054,German Values Property Group GmbH,TVD6.F^F24,DE000A0L1NQ8,5000631757,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+1055,Agiplan Technosoft AG,AGIG.F^C14,DE0005870356,4295869633,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+1056,Adler Modemaerkte GmbH,ADDG.DE^C21,DE000A1H8MU2,5034748692,Xetra,Consumer Cyclicals,Retailers,True
+1057,Emprise AG,ERIG.F^F11,DE0005710503,4295869866,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+1058,alstria Office Prime Portfolio GmbH & Co KG,PMOX.DE^L16,DE000PRME020,5074560163,Xetra,Real Estate,Real Estate,True
+1059,China Specialty Glass AG,CSGG.DE^B16,DE000A1EL8Y8,5001221711,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+1060,Thielert AG,T3CGn.F^G11,DE0006052079,4295869124,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+1061,Cybio AG,CQJG.F^H12,DE0005412308,4295869960,Frankfurt Stock Exchange,Healthcare,Healthcare Services & Equipment,True
+1062,Shw AG,SW1.DE^D21,DE000A3E5B74,5035251689,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,True
+1063,Interhyp AG,IYPGn.F^G11,DE0005121701,4295869962,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+1064,Altech Advanced Materials AG,YB1.DE^K14,DE000A41YD99,5071163924,Xetra,Basic Materials,Applied Resources,True
+1065,Deutsche Boerse AG,DB1Gne.DE^B12,DE000A1KRND6,4298007872,Xetra,Financials,Banking & Investment Services,True
+1066,schlott gruppe AG,SHTG.DE^H11,DE0005046304,4295869517,Xetra,Industrials,Industrial & Commercial Services,True
+1067,Arbomedia GmbH,RBXG.F^H11,DE0005489306,5037431327,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,True
+1068,10tacle studios AG,T1CG.F^L12,DE000TACL107,4295869258,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+1069,Vion Beef BV,MKSG.F^H11,DE0006622301,5081137575,Frankfurt Stock Exchange,Consumer Non-Cyclicals,Food & Beverages,True
+1070,euromicron AG,EUCG.DE^H11,DE0005660005,4295869691,Xetra,Industrials,Industrial Goods,True
+1071,euromicron AG,EUCAn.DE^A20,DE000A1K0300,4295869691,Xetra,Industrials,Industrial Goods,True
+1072,Mineralbrunnen Ueberkingen-Teinach GmbH & Co KgaA,MUTG.F,DE0006614001,5057942105,Frankfurt Stock Exchange,Consumer Non-Cyclicals,Food & Beverages,False
+1073,Mineralbrunnen Ueberkingen-Teinach GmbH & Co KgaA,MUTG_p.F,DE0006614035,5057942105,Frankfurt Stock Exchange,Consumer Non-Cyclicals,Food & Beverages,False
+1074,solarhybrid AG,SHLG.DE^G12,DE000A0LR456,5037587014,Xetra,Energy,Renewable Energy,True
+1075,Zapf Creation AG,ZPFKk.DE^A15,DE000A2TSMZ8,4295869773,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+1076,schlott gruppe AG,SHTG.F^L11,DE0005046304,4295869517,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+1077,Ultrasonic AG,US5.DE^I15,DE000A1KREX3,5036856809,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+1078,Arquana International Print & Media AG,NIEG.F^L11,DE0006781008,4295868797,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+1079,Comtrade AG,CTBGk.F^L11,DE000A0STXE4,4295869289,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+1080,Bau Verein zu Hamburg Immobilien GmbH,BVHG.DE^K12,DE0005179006,5040703035,Xetra,Real Estate,Real Estate,True
+1081,MyHammer Holding AG,MYRG.DE^A12,DE000A11QWW6,4295869759,Xetra,Technology,Software & IT Services,True
+1082,Stolberger Telecom AG,SZIG.F^A14,DE0007279010,4295868820,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+1083,EMS New Media AG,EMNG.F^A12,DE0005212807,4295870010,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,True
+1084,Caatoosee AG,CATG.F^C16,DE000A1E8HY7,4295869607,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+1085,IKB Deutsche Industriebank AG,IKBG.DE^A12,DE0008063306,4295868946,Xetra,Financials,Banking & Investment Services,True
+1086,IKB Deutsche Industriebank AG,IKBG.F^D16,DE0008063306,4295868946,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+1087,7C Solarparken AG,HRPKk.F,DE000A11QW68,5044364059,Frankfurt Stock Exchange,Utilities,Utilities,False
+1088,Audi AG,NSUG.DE^B12,DE0006757008,4295869354,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,True
+1089,Koehler & Krenzer Fashion AG,KKFG.F^B12,DE0006303407,4295869806,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+1090,MISTRAL Media AG,SPZNnk.DE^C12,DE000A1PHC13,4295869688,Xetra,Financials,Banking & Investment Services,True
+1091,Audi AG,NSUG.DE^K20,DE0006757008,4295869354,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,True
+1092,Rolls Royce Power Systems AG,TGMG.DE^C13,DE000A0N4P43,5000064208,Xetra,Industrials,Industrial Goods,True
+1093,ALBA SE,INSG.DE^D12,DE0006209901,4295869714,Xetra,Industrials,Industrial & Commercial Services,True
+1094,Meyer Burger (Germany) GmbH,R8RG.F^L14,DE000A0JCZ51,5083483265,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+1095,Haikui Seafood AG,H8K.DE^B16,DE000A1JH3F9,5037363876,Xetra,Consumer Non-Cyclicals,Food & Beverages,True
+1096,STINAG Stuttgart Invest AG,STGG.F^G17,DE0007318008,4295868684,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+1097,Schneider Technologies AG,SRFG.F^F12,DE0007193401,4295869606,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+1098,Moenus Textilmaschinen AG,MOEG.F^F12,DE0006621006,5000008512,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+1099,Terex Material Handling & Port Solutions AG,D9CGn.F^A14,DE000DCAG010,4295870327,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+1100,Hugo Boss AG,BOSG_p.DE^F12,DE0005245534,4295869603,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+1101,Fujitsu TDS GmbH,TDSG.DE^F12,DE0005085609,5050718232,Xetra,Technology,Technology Equipment,True
+1102,Lotto24 AG,LO2k.DE^I21,DE000LTT2470,5037627789,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+1103,Procon MultiMedia AG,PMMG.F^G12,DE0005122006,4295869877,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,True
+1104,Ming Le Sports AG,ML2.DE^K14,DE000A2LQ728,5037629416,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+1105,FAST Casualwear AG,FCA.DE^H13,DE000A1PHFG5,5037628392,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+1106,MIFA Mitteldeutsche Fahrradwerke AG,FW1G.DE^G15,DE000A0B95Y8,4295870199,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,True
+1107,BSK 1818 Holding AG,BEBG.F^I13,DE0008023227,5000006301,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+1108,solarhybrid AG,SHLG.F^G15,DE000A0LR456,5037587014,Frankfurt Stock Exchange,Energy,Renewable Energy,True
+1109,BKN International AG,BKQG.F^I12,DE0005290704,4295870071,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,True
+1110,Biofrontera AG,B8FKn.DE,DE000A4BGGM7,4295870275,Xetra,Healthcare,Pharmaceuticals & Medical Research,False
+1111,n runs AG,NNXG.DE^I14,DE000A0LEFF5,5040263253,Xetra,,,True
+1112,Pearl Gold AG,PGAG.DE^K16,DE000A0AFGF3,5001230460,Xetra,Basic Materials,Mineral Resources,True
+1113,Talanx AG,TLXGn.DE,DE000TLX1005,4296750143,Xetra,Financials,Insurance,False
+1114,Cargolifter AG,CGLGn.F^J12,DE0005402614,5000088067,Frankfurt Stock Exchange,Industrials,Transportation,True
+1115,Hess AG,HEAG.DE^K13,DE000A0N3EJ6,4297575432,Xetra,Industrials,Industrial Goods,True
+1116,Telefonica Deutschland Holding AG,O2Dn.DE^D24,DE000A1J5RX9,5037852371,Xetra,Technology,Telecommunications Services,True
+1117,Firstextile AG,FT8.DE^K15,DE000A1PG8V8,5037940981,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+1118,Brueder Mannesmann AG,BMMG.DE^D16,DE0005275507,4295869175,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+1119,Pfleiderer GmbH (OLD),PFDGn.DE^K12,DE0006764749,5040258545,Xetra,Basic Materials,Applied Resources,True
+1120,IN motion AG movie TV & music productions,IXUG.F^C16,DE0006223803,4295870155,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,True
+1121,Mania Technologie AG,MNIG.F^K13,DE0006620701,5037368164,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+1122,farmatic Anlagenbau GmbH,FARG.F^L12,DE0006051923,4295869654,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+1123,Rag Abwicklungs AG,ROSGn.F^L12,DE0007062010,4295868996,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+1124,Hucke AG,HCKG.F^L12,DE0006095102,4295869133,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+1125,EECH Group AG,PTAG.F^L12,DE0006852809,4295868671,Frankfurt Stock Exchange,Utilities,Utilities,True
+1126,Met@box AG,MBXG.F^L12,DE0006921208,4295869858,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+1127,Garant Schuh & Mode AG,GANG_p.F^A13,DE0005853030,4295868738,Frankfurt Stock Exchange,Consumer Cyclicals,Retailers,True
+1128,HanseYachts AG,H9YG.F^E24,DE000A0KF6M8,4295870101,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+1129,MK Kliniken AG,MKANn.DE^H14,DE000A1TNRR7,4295868819,Xetra,,,True
+1130,Alliance Healthcare Deutschland GmbH,ANZG.F^A13,DE0005047005,4295868911,Frankfurt Stock Exchange,Healthcare,Pharmaceuticals & Medical Research,True
+1131,LEG Immobilien SE,LEGn.DE,DE000LEG1110,5038054895,Xetra,Real Estate,Real Estate,False
+1132,Deutsche Cannabis AG,HEM1.F^J23,DE000A0BVVK7,5037437721,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+1133,Global PVQ SE,QCEG.F^C13,DE0005558662,5000048419,Frankfurt Stock Exchange,Energy,Renewable Energy,True
+1134,Evonik Industries AG,EVKn.DE,DE000EVNK013,5000074393,Xetra,Basic Materials,Chemicals,False
+1135,Deutsche Immobilien Holding AG,NOWG.F^E13,DE0007473043,4295868699,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+1136,Pacific Retail Merchants AG,7PR.DE^B16,DE000A1TNNL9,5039722301,Xetra,Consumer Non-Cyclicals,Food & Drug Retailing,True
+1137,NORDWEST Handel AG,NWXG.DE^H13,DE0006775505,5058534828,Xetra,Basic Materials,Mineral Resources,True
+1138,Centrotherm International AG,CTNGk.F,DE000A1TNMM9,4295868689,Frankfurt Stock Exchange,Energy,Renewable Energy,False
+1139,Essity GmbH,PWAG.F^F13,DE0006889801,5045987306,Frankfurt Stock Exchange,Basic Materials,Applied Resources,True
+1140,Douglas Holding AG,DOHG.F^G13,DE0006099005,5087105918,Frankfurt Stock Exchange,,,True
+1141,Fresenius Medical Care AG,FMEG_p.DE^G13,DE0005785836,4295869203,Xetra,Healthcare,Healthcare Services & Equipment,True
+1142,Kion Group AG,KGX.DE,DE000KGX8881,5066558455,Xetra,Industrials,Industrial Goods,False
+1143,Osram Licht AG,OSRn.DE^G21,DE000LED4000,5038910332,Xetra,Industrials,Industrial Goods,True
+1144,Muehlbauer Holding AG,MUBG.DE,DE0006627201,5044009838,Xetra,Technology,Technology Equipment,False
+1145,Vonovia SE,VNAn.DE,DE000A1ML7J1,5063761614,Xetra,Real Estate,Real Estate,False
+1146,Deutsche Steinzeug Cremer & Breuer AG,DSKk.DE^J14,DE000A1TNLL3,5040271327,Xetra,Basic Materials,Mineral Resources,True
+1147,FAST Casualwear AG,FCA.F^H15,DE000A1PHFG5,5037628392,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+1148,118000 AG,Z18G.F^H13,DE0006911902,4295870055,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,True
+1149,Dyckerhoff GmbH,DYKG_p.DE^I13,DE0005591036,5043951378,Xetra,Basic Materials,Mineral Resources,True
+1150,Dyckerhoff GmbH,DYKG.DE^I13,DE0005591002,5043951378,Xetra,Basic Materials,Mineral Resources,True
+1151,NORDWEST Handel AG,NWXG.F,DE0006775505,5058534828,Frankfurt Stock Exchange,Basic Materials,Mineral Resources,False
+1152,Metric Mobility Solutions AG,HWSAk.DE^J16,DE000A1X3X66,4295869685,Xetra,Technology,Technology Equipment,True
+1153,Bastei Luebbe AG,BST1.DE,DE000A1X3YY0,5040248921,Xetra,Consumer Cyclicals,Cyclical Consumer Services,False
+1154,NTT Com Security AG,AAGGn.DE^F16,DE0005155030,4295869692,Xetra,Technology,Software & IT Services,True
+1155,GWB Immobilien AG,G7BG.F^I23,DE000A0JKHG0,4295870087,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+1156,Beta Systems Software AG(Pre-Merger),BSSG.DE^B14,DE000A2BPP88,4295869281,Xetra,Technology,Software & IT Services,True
+1157,Custodia Holding AG,LBRG.F^B14,DE0006496003,4295869697,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+1158,IVG Immobilien GmbH,IVGG.DE^C14,DE0006205701,4295869977,Xetra,Real Estate,Real Estate,True
+1159,IVG Immobilien GmbH,IVGG.F^H14,DE0006205701,4295869977,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+1160,Sunways AG,SWWG.F^L14,DE0007332207,4295869304,Frankfurt Stock Exchange,Energy,Renewable Energy,True
+1161,Bucher Automation AG,JTTG.F^E14,DE0006264005,4295869883,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+1162,Advanced Inflight Alliance AG,DVNN.DE^E14,DE000A1TNV00,4295869884,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+1163,Conergy AG,CGYGk.F^F14,DE000A1KRCK4,4295869666,Frankfurt Stock Exchange,Energy,Renewable Energy,True
+1164,Infront Financial Technology GmbH,VWDG.DE^E14,DE0005204705,5001158672,Xetra,Industrials,Industrial & Commercial Services,True
+1165,Generali Deutschland Holding AG,GE1G.DE^E14,DE0008400029,5000635327,Xetra,Financials,Insurance,True
+1166,Nikon SLM Solutions AG (Pre-Merger),AM3D.DE^H23,DE000A111338,5042267228,Xetra,Industrials,Industrial Goods,True
+1167,buch.de internetstores GmbH,BUEGEUR.DEp^E14,DE0005204606,5044171592,Xetra,Technology,Software & IT Services,True
+1168,PARK & Bellheimer AG,PKBG.F,DE0006902000,4295868850,Frankfurt Stock Exchange,Consumer Non-Cyclicals,Food & Beverages,False
+1169,Loewe AG,LOEKk.F^J14,DE000A1X3W34,4295869888,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+1170,JJ Auto AG,JJO.F^C20,DE000A1TNS70,5042381014,Frankfurt Stock Exchange,Consumer Cyclicals,Automobiles & Auto Parts,True
+1171,Vivacon AG,VIVG.F^A15,DE0006048911,4295869672,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+1172,Deufol SE,DE1n.DE^K15,DE000A40ET54,5038040999,Xetra,Industrials,Industrial & Commercial Services,True
+1173,Brilliant AG,BRLG.F^G14,DE0005272702,4295868662,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+1174,GSW Immobilien AG,GIBG.F^L22,DE000GSW1111,5000686602,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+1175,Bien Zenker AG,BIEG.F^G14,DE0005228100,5043339047,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+1176,Defraq Ventures AG,FKEK.F^J23,DE000A2TSM88,5064614804,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+1177,Agennix AG,AGXG.F^F19,DE000A1A6XX4,5000489950,Frankfurt Stock Exchange,Healthcare,Pharmaceuticals & Medical Research,True
+1178,Girindus AG iL,GIRG.F^A16,DE0005880405,5001218497,Frankfurt Stock Exchange,Healthcare,Pharmaceuticals & Medical Research,True
+1179,Westgrund Holding GmbH,WEG1.DE^C21,DE000A0HN4T3,4295869740,Xetra,Real Estate,Real Estate,True
+1180,Snowbird AG,8S9.F^J22,DE000A1PHEL8,5042940951,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+1181,Zalando SE,ZALG.DE,DE000ZAL1111,5043464296,Xetra,Technology,Software & IT Services,False
+1182,Ls Telcom AG,LSXG.F,DE0005754402,4295869562,Frankfurt Stock Exchange,Technology,Technology Equipment,False
+1183,Elexis AG,EEXG.DE^J14,DE0005085005,4295869794,Xetra,Industrials,Industrial Goods,True
+1184,Epigenomics AG,ECXk.DE^G24,DE000A37FT41,4295870322,Xetra,Healthcare,Pharmaceuticals & Medical Research,True
+1185,TLG Immobilien AG,TLGG.DE^L21,DE000A12B8Z4,5044024092,Xetra,Real Estate,Real Estate,True
+1186,Ming Le Sports AG,ML2G.F,DE000A2LQ728,5037629416,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,False
+1187,Ehlebracht AG,EHLG.DE^I15,DE0005649107,4295868844,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+1188,PrimaCom AG,PRIG.DE^K14,DE0006259104,4295869786,Xetra,Technology,Telecommunications Services,True
+1189,HELLA GmbH & Co KGaA,HLE.DE,DE000A13SX22,4298169984,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,False
+1190,Camerit AG,RTML.F,DE000HNC2059,4295870323,Frankfurt Stock Exchange,Financials,Banking & Investment Services,False
+1191,Tele Columbus AG,TC1n.DE^I21,DE000TCAG172,4297216605,Xetra,Technology,Telecommunications Services,True
+1192,Centrosolar Group AG,C3OAk.F^F15,DE000A1TNS13,4295868693,Frankfurt Stock Exchange,Energy,Renewable Energy,True
+1193,UMS United Medical Systems International AG I L,UMS.F^A19,DE0005493654,4295869575,Frankfurt Stock Exchange,Healthcare,Healthcare Services & Equipment,True
+1194,Mood and Motion AG,NF7Gk.F^G15,DE000A1E9A75,4295869286,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+1195,Tintbright AG,TBRG.F^D16,DE000A1PG7W8,5040953606,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+1196,VanCamel AG,VC8.F^D16,DE000A1RFMM9,5040262818,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+1197,Lechwerke AG,LECG.F,DE0006458003,4295868976,Frankfurt Stock Exchange,Utilities,Utilities,False
+1198,Korian Deutschland GmbH,BOHG.DE^B15,DE0005240709,5050697139,Xetra,Healthcare,Healthcare Services & Equipment,True
+1199,Tui AG,TUI1n.DE,DE000TUAG505,4295869210,Xetra,Consumer Cyclicals,Cyclical Consumer Services,False
+1200,ROY Asset Holding SE,RY8.DE^E17,DE000RYSE888,5045881482,Xetra,Real Estate,Real Estate,True
+1201,NAKIKI SE,WDL1k.DE^K22,DE000WNDL300,5067521172,Xetra,Financials,Banking & Investment Services,True
+1202,Allane SE,LNSX.DE^H22,DE000A0DPRE6,5051610055,Xetra,Financials,Banking & Investment Services,True
+1203,NEXR Technologies SE,NXRG.DE^F23,DE000A1K03W5,5046041346,Xetra,Technology,Software & IT Services,True
+1204,Heliocentris Energy Solutions AG,H2Fn.DE^B17,DE000A1MMHE3,4295869190,Xetra,Energy,Renewable Energy,True
+1205,Westgrund Holding GmbH,WEG2.DE^F15,DE000A14KCW5,4295869740,Xetra,Real Estate,Real Estate,True
+1206,Siltronic AG,WAFGn.DE,DE000WAF3001,4295869055,Xetra,Technology,Technology Equipment,False
+1207,Nuernberger Beteiligungs AG,NLVGn.DE,DE0008435967,4295868982,Xetra,Financials,Insurance,False
+1208,elumeo SE,ELBG.DE,DE000A11Q059,5046038724,Xetra,Consumer Cyclicals,Cyclical Consumer Products,False
+1209,Solar Fabrik fuer Produktion und Vertrieb von solartechnischen Produkten AG,SFXG.F^I23,DE0006614712,4295869989,Frankfurt Stock Exchange,Energy,Renewable Energy,True
+1210,Joyou AG,JY8G.F^B17,DE000A0WMLD8,5000685745,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+1211,Deutsche Pfandbriefbank AG,PBBG.DE,DE0008019001,4295869337,Xetra,Financials,Banking & Investment Services,False
+1212,Hansa Group AG,H4GG.DE^H15,DE0007608606,5036753251,Xetra,Basic Materials,Chemicals,True
+1213,Cybits Holding AG,SCOG.F^A16,DE0007240004,5037639240,Frankfurt Stock Exchange,Technology,Software & IT Services,True
+1214,Ultrasonic AG,US5.F^G20,DE000A1KREX3,5036856809,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+1215,Douglas Holding AG,DOHG.DE^F13,DE0006099005,5087105918,Xetra,,,True
+1216,Cybits Holding AG,SCOG.DE^H15,DE0007240004,5037639240,Xetra,Technology,Software & IT Services,True
+1217,ISION Internet AG,IOIGEUR.Lp^I15,DE0006112006,4295870067,London Stock Exchange,Technology,Software & IT Services,True
+1218,Berentzen Gruppe AG,BEZG_p.DE^I15,DE0005201636,4295869379,Xetra,Consumer Non-Cyclicals,Food & Beverages,True
+1219,Berentzen Gruppe AG,BEZ.DE,DE0005201602,4295869379,Xetra,Consumer Non-Cyclicals,Food & Beverages,False
+1220,Petrotec AG,PT8G.F^J15,DE000PET1111,4295870140,Frankfurt Stock Exchange,Energy,Renewable Energy,True
+1221,Scout24 SE,G24n.DE,DE000A12DM80,5046707762,Xetra,Technology,Software & IT Services,False
+1222,Covestro AG,1COVG.DE^L25,DE0006062144,5046707555,Xetra,Basic Materials,Chemicals,True
+1223,Encavis Asset Management AG,CU1G.DE^H17,DE000A12UL56,5046047475,Xetra,Utilities,Utilities,True
+1224,Schaeffler AG,SHA_p.DE^J24,DE000SHA0159,5045949737,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,True
+1225,Steilmann SE,STEM.DE^D17,DE000A14KR50,5046716236,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+1226,Hapag-Lloyd AG,HLAG.DE,DE000HLAG475,4295869164,Xetra,Industrials,Transportation,False
+1227,Firstextile AG,FT8.F^I16,DE000A1PG8V8,5037940981,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+1228,Mauser Waldeck AG,MAUG.F^A16,DE0006580301,4295868787,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+1229,BRAIN Biotech AG,BNNn.DE,DE0005203947,5001178117,Xetra,Industrials,Industrial & Commercial Services,False
+1230,Pilkington Deutschland AG,FDDG.F^B16,DE0005588008,4295869089,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+1231,Leo International Precision Health AG,LEOW.F,DE0005490601,4295870133,Frankfurt Stock Exchange,Financials,Banking & Investment Services,False
+1232,Pacific Retail Merchants AG,7PRe.DE^B16,DE000A1PHEF0,5039722301,Xetra,Consumer Non-Cyclicals,Food & Drug Retailing,True
+1233,China Specialty Glass AG,CSGG.F^L19,DE000A1EL8Y8,5001221711,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+1234,Pacific Retail Merchants AG,7PR.F^L16,DE000A1TNNL9,5039722301,Frankfurt Stock Exchange,Consumer Non-Cyclicals,Food & Drug Retailing,True
+1235,Diebold Nixdorf AG,WIN1.DE^H16,DE000A169QN2,4295870225,Xetra,Technology,Technology Equipment,True
+1236,Asian Bamboo AG,5ABG.F^K19,DE000A0M6M79,4298014956,Frankfurt Stock Exchange,Basic Materials,Applied Resources,True
+1237,Rostra AG,333.DE^I18,DE000A3MQRK6,5050988785,Xetra,Financials,Investment Holding Companies,True
+1238,Deutsche Boerse AG,DB11.DE^D17,DE000A2AA253,4298007872,Xetra,Financials,Banking & Investment Services,True
+1239,United Power Technology AG,UP7G.F^H21,DE000A1EMAK2,5001203664,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+1240,bet at home com AG,ARTG.DE,DE000A0DNAY5,4295869041,Xetra,Consumer Cyclicals,Cyclical Consumer Services,False
+1241,Vtion Wireless Technology AG,V33G.F^L17,DE000CHEN993,4296190341,Frankfurt Stock Exchange,Technology,Telecommunications Services,True
+1242,Uniper SE,UN0k.DE,DE000UNSE026,5051387035,Xetra,Utilities,Utilities,False
+1243,VBH Holding AG (Pre-Merger),VBHKk.DE^I16,DE000A161002,4295869993,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+1244,Rocket Internet SE,RKET.DE^K20,DE000A12UKK6,5046040313,Xetra,Financials,Investment Holding Companies,True
+1245,va Q tec AG,VQTG.DE^H23,DE0006636681,4296686658,Xetra,Industrials,Industrial Goods,True
+1246,EON Verwaltungs GmbH,IGY.DE^F20,DE000A2AADD2,5064618963,Xetra,Utilities,Utilities,True
+1247,Aixtron SE,AIXC.DE^L16,DE000A2BPYT0,5001428570,Xetra,Technology,Technology Equipment,True
+1248,Aixtron SE,AIXGn.DE,DE000A0WMPJ6,5001428570,Xetra,Technology,Technology Equipment,False
+1249,Pearl Gold AG,PGAG.F,DE000A0AFGF3,5001230460,Frankfurt Stock Exchange,Basic Materials,Mineral Resources,False
+1250,Medios AG,ILM1k.DE,DE000A1MMCC8,4295869870,Xetra,Healthcare,Pharmaceuticals & Medical Research,False
+1251,Aves One AG,AVES.DE^B22,DE000A168114,5040703796,Xetra,Financials,Banking & Investment Services,True
+1252,Pacific Retail Merchants AG,0QEY.L^L16,DE000A1TNNL9,5039722301,London Stock Exchange,Consumer Non-Cyclicals,Food & Drug Retailing,True
+1253,ProCredit Holding AG,PCZ.DE,DE0006223407,5036524487,Xetra,Financials,Banking & Investment Services,False
+1254,I Fao AG,FAOGn.DE^L16,DE0006224520,4295869755,Xetra,Technology,Software & IT Services,True
+1255,Heliocentris Energy Solutions AG,H2Fn.F^C20,DE000A1MMHE3,4295869190,Frankfurt Stock Exchange,Energy,Renewable Energy,True
+1256,Praktiker AG,PRAG.F^E17,DE000A0F6MD5,4295870208,Frankfurt Stock Exchange,Consumer Cyclicals,Retailers,True
+1257,Deutsche Konsum Real Estate AG,DKG.DE,DE000A14KRD3,5044363907,Xetra,Real Estate,Real Estate,False
+1258,Aumann AG,AAGG.DE,DE000A2DAM03,5053943558,Xetra,Industrials,Industrial Goods,False
+1259,Stoehr & Co AG,STRG.F^D17,DE0007277006,5040266723,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+1260,Steilmann SE,STEM.F^G20,DE000A14KR50,5046716236,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+1261,ROY Asset Holding SE,RY8.DE^A24,DE000RYSE888,5045881482,Xetra,Real Estate,Real Estate,True
+1262,Alphaform AG,ATFG.F^F17,DE0005487953,4295870156,Frankfurt Stock Exchange,Basic Materials,Applied Resources,True
+1263,Vapiano SE,VAO.DE^C21,DE000A0WMNK9,5074206787,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+1264,Delivery Hero SE,DHER.DE,DE000A2E4K43,5064650628,Xetra,Technology,Software & IT Services,False
+1265,METRO AG,B4B.DE^D25,DE000A41YD16,5056412391,Xetra,Consumer Non-Cyclicals,Food & Drug Retailing,True
+1266,METRO AG,B4B3_p.DE^D25,DE000A41YD24,5056412391,Xetra,Consumer Non-Cyclicals,Food & Drug Retailing,True
+1267,Jost Werke SE,JST.DE,DE000JST4000,5056411458,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,False
+1268,DVB Bank SE,DVBG.F^H17,DE0008045501,4295869584,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+1269,Solarworld AG,SWVk.F^G24,DE000A1YCMM2,4295869876,Frankfurt Stock Exchange,Energy,Renewable Energy,True
+1270,Alzchem Group AG,ACT1.DE,DE000A2YNT30,4295869849,Xetra,Basic Materials,Chemicals,False
+1271,Voltatron AG,VOTR.DE,DE000A2E4LE9,5057825063,Xetra,Industrials,Industrial Goods,False
+1272,Varta AG,VAR1.DE^C25,DE000A0TGJ55,4295869134,Xetra,Industrials,Industrial Goods,True
+1273,Linde AG (Pre-merger),LING.DE^D19,DE0006483001,4295869233,Xetra,Basic Materials,Chemicals,True
+1274,Linde AG (Pre-merger),LIN1.DE^J18,DE000A2E4L75,4295869233,Xetra,Basic Materials,Chemicals,True
+1275,Hellofresh SE,HFGG.DE,DE000A161408,5056395925,Xetra,Consumer Non-Cyclicals,Food & Drug Retailing,False
+1276,ALNO Aktiengesellschaft,ANOG.DE^K17,DE0007788408,5036867712,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+1277,ALNO Aktiengesellschaft,ANOG.F^H18,DE0007788408,5036867712,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+1278,Wanderer Werke AG,WANG.F^L17,DE0007756009,4295868891,Frankfurt Stock Exchange,Technology,Technology Equipment,True
+1279,Strabag AG (Pre-Merger),STBGn.F^A18,DE000A0Z23N2,4295868917,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+1280,Dermapharm Holding SE,DMPG.DE,DE000A2GS5D8,5060556153,Xetra,Healthcare,Pharmaceuticals & Medical Research,False
+1281,Arcandor AG,AROG.DE^C18,DE0006275001,4295868953,Xetra,Consumer Cyclicals,Retailers,True
+1282,Siemens Healthineers AG,SHLG.DE,DE000SHL1006,5060559444,Xetra,Healthcare,Healthcare Services & Equipment,False
+1283,DWS Group GmbH & Co KgaA,DWSG.DE,DE000DWS1007,5062367285,Xetra,Financials,Banking & Investment Services,False
+1284,Covivio Office GmbH,GWD.DE^E20,DE000A2G8XX3,5071545107,Xetra,Real Estate,Real Estate,True
+1285,Serviceware SE,SJJG.DE,DE000A2G8X31,5062458959,Xetra,Technology,Software & IT Services,False
+1286,Nfon AG,NFN.DE,DE000A0N4N52,4298128938,Xetra,Technology,Telecommunications Services,False
+1287,STS Group AG,SF3.DE,DE000A1TNU68,5063380827,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,False
+1288,Fair Value REIT-AG,FVIG.F,DE000A0MW975,4297709048,Frankfurt Stock Exchange,Real Estate,Real Estate,False
+1289,home24 SE,H24.DE^I23,DE000A14KEB5,5064585245,Xetra,Consumer Cyclicals,Retailers,True
+1290,Capsensixx AG,CPXG.DE^A25,DE000A2G9M17,5063769867,Xetra,Financials,Banking & Investment Services,True
+1291,Akasol AG,ASLG.DE^B22,DE000A2JNWZ9,5064611861,Xetra,Industrials,Industrial Goods,True
+1292,Phoenix Solar AG,PS4G.F^K20,DE000A0BVU93,4295869122,Frankfurt Stock Exchange,Energy,Renewable Energy,True
+1293,Duerkopp Adler AG (Pre-Merger),DKAG.F^G18,DE0006299001,4295870251,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+1294,Creditshelf AG,CSQG.DE^D24,DE000A41YEG8,5064639418,Xetra,Financials,Banking & Investment Services,True
+1295,Ringmetall SE,HP3An.DE,DE000A3E5E55,4295870191,Xetra,Industrials,Industrial Goods,False
+1296,Erotik Abwicklungsgesellschaft AG,USEG.DE^H18,DE0007551400,5066538165,Xetra,Consumer Cyclicals,Retailers,True
+1297,Babcock-BSH AG,BTTG.F^I18,DE0005284004,4295869290,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+1298,Rostra AG,3330k.F,DE000A3MQRK6,5050988785,Frankfurt Stock Exchange,Financials,Investment Holding Companies,False
+1299,Instone Real Estate Group SE,INS2.DE,DE000A2NBX80,5065356414,Xetra,Real Estate,Real Estate,False
+1300,Sinner AG(Pre-merger),SING.F^J18,DE0007241002,4295869411,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+1301,Westwing Group SE,WEW.DE,DE000A2N4H07,5065368575,Xetra,Consumer Cyclicals,Retailers,False
+1302,Knorr Bremse AG,KBX.DE,DE000KBX1006,4295869167,Xetra,Industrials,Industrial Goods,False
+1303,STADA Arzneimittel AG,STAGn.DE^K18,DE0007251803,4295869543,Xetra,Healthcare,Pharmaceuticals & Medical Research,True
+1304,DFV Deutsche Familienversicherung AG,DFV.DE^L24,DE000A2NBVD5,5050656320,Xetra,Financials,Insurance,True
+1305,Deutsche Industrie Grundbesitz AG,JB7.DE^A22,DE000A2G9LL1,5059100176,Xetra,Real Estate,Real Estate,True
+1306,mybet Holding SE,XMYG.F^G20,DE000A2LQ009,5064596043,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,True
+1307,ERWE Immobilien AG,ERWE.DE,DE000A1X3WX6,5070769835,Xetra,Real Estate,Real Estate,False
+1308,Libero football finance AG,TUFG.DE^J21,DE000A161N22,5068330784,Xetra,Industrials,Industrial & Commercial Services,True
+1309,Gateway Real Estate AG,GTYG.DE,DE000A0JJTG7,5040697740,Xetra,Real Estate,Real Estate,False
+1310,Stemmer Imaging AG,S9I.DE^L24,DE000A2G9MZ9,5060588565,Xetra,Technology,Technology Equipment,True
+1311,RWE AG,RWEG_p.DE^G19,DE0007037145,4295869049,Xetra,Utilities,Utilities,True
+1312,Traton SE,8TRA.BE^A26,DE000TRAT0N7,5068663280,Berlin Stock Exchange,Industrials,Industrial Goods,True
+1313,TeamViewer SE,TMV.DE,DE000A2YN900,5071171426,Xetra,Technology,Software & IT Services,False
+1314,GERRY WEBER International GmbH,GWI2k.F^L23,DE000A255G36,4295868914,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+1315,Zhongde Waste Technology AG,ZEFG.F^F26,DE000ZDWT018,5037452347,Frankfurt Stock Exchange,Energy,Renewable Energy,True
+1316,Westag AG,WUG.F^G25,DE0007775207,4295869572,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+1317,Westag AG,WUG3_p.F^G25,DE0007775231,4295869572,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,True
+1318,Westag AG,WUGG.DE^A20,DE0007775207,4295869572,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+1319,Westag AG,WUGG_p.DE^A20,DE0007775231,4295869572,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+1320,euromicron AG,EUCAn.F^B22,DE000A1K0300,4295869691,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+1321,Axel Springer SE,SPRGn.DE^D20,DE0005501357,5040706960,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+1322,PharmaSGP Holding SE,PSGG.DE^H25,DE000A2P4LJ5,5074558504,Xetra,Healthcare,Pharmaceuticals & Medical Research,True
+1323,Brockhaus Technologies AG,BKHTn.DE,DE000A2GSU42,5059102631,Xetra,Financials,Investment Holding Companies,False
+1324,Saf-Holland Se,SFQ.DE,DE000SAFH001,5076113328,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,False
+1325,Knaus Tabbert AG,KTAG.DE,DE000A2YN504,4298495578,Xetra,Consumer Cyclicals,Cyclical Consumer Products,False
+1326,Hensoldt AG,HAGG.DE,DE000HAG0005,5076939719,Xetra,Industrials,Industrial Goods,False
+1327,Siemens Energy AG,ENR1n.DE,DE000ENER6Y0,5000103308,Xetra,Energy,Renewable Energy,False
+1328,Enapter AG,H2OG.DE,DE000A255G02,5073085259,Xetra,Energy,Renewable Energy,False
+1329,CCS Abwicklungs AG,C0M.DE^D23,DE000A2QDNX9,5057807351,Xetra,Industrials,Industrial Goods,True
+1330,flatexDEGIRO SE,FTKn.DE,DE000FTG1111,5047749987,Xetra,Financials,Banking & Investment Services,False
+1331,FCR Immobilien AG,FC9.DE,DE000A1YC913,5042261990,Xetra,Real Estate,Real Estate,False
+1332,Froehlich Bau Ag i L,FROG_p.F^K20,DE0005790331,4295870256,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+1333,Froehlich Bau Ag i L,FROG.F^K20,DE0005790307,4295870256,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+1334,Nagarro SE,NA9n.DE,DE000A3H2200,5076703343,Xetra,Technology,Software & IT Services,False
+1335,Wirecard AG,WDIG.F^K21,DE0007472060,4295869662,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+1336,PARIGROUP SE,CEVG.DE^A21,DE0005407506,5073152582,Xetra,Financials,Banking & Investment Services,True
+1337,AUTO1 Group SE,AG1G.DE,DE000A2LQ884,5067159703,Xetra,Technology,Software & IT Services,False
+1338,Vantage Towers AG,VTWRn.DE^E23,DE000A3H3LL2,5076167430,Xetra,Industrials,Industrial & Commercial Services,True
+1339,Vapiano SE,VAO.F^J23,DE000A0WMNK9,5074206787,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,True
+1340,Adler Modemaerkte GmbH,ADDG.F^H21,DE000A1H8MU2,5034748692,Frankfurt Stock Exchange,Consumer Cyclicals,Retailers,True
+1341,Friedrich Vorwerk Group SE,VH2.DE,DE000A255F11,5079241735,Xetra,Industrials,Industrial & Commercial Services,False
+1342,DEAG Deutsche Entertainment AG,LOUDG.DE^D21,DE000A3E5DA0,4295869683,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+1343,Creepy Jar SA,CRJ.WA,PLCRPJR00019,5054883433,Warsaw Stock Exchange,Consumer Cyclicals,Cyclical Consumer Products,False
+1344,SYNLAB Holdco GmbH,SYAB.DE^G24,DE000A2TSL71,5080041852,Xetra,Healthcare,Healthcare Services & Equipment,True
+1345,Katek Se,KTEK.DE^E24,DE000A40ET05,5071148740,Xetra,Technology,Technology Equipment,True
+1346,Linus Digital Finance AG,LDF.F^L24,DE000A2QRHL6,5080029178,Frankfurt Stock Exchange,Financials,Banking & Investment Services,True
+1347,hGears AG,HGEA.DE,DE000A3CMGN3,5039935661,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,False
+1348,ABYxZAL Holding AG,YOUG.DE^K25,DE000A3CNK42,5097007832,Xetra,Financials,Banking & Investment Services,True
+1349,Bike24 Holding AG,BIKE.DE,DE000A3CQ7F4,5081074611,Xetra,Consumer Cyclicals,Retailers,False
+1350,Cherry SE,C3Rk.DE,DE000A41YFJ9,5080142663,Xetra,Technology,Technology Equipment,False
+1351,Ls Invest AG,IFAG.F^G21,DE0006131204,4295869140,Frankfurt Stock Exchange,Consumer Cyclicals,Cyclical Consumer Services,True
+1352,Mister Spex SE,MRXG.DE,DE000A3CSAE2,5034771102,Xetra,Consumer Cyclicals,Retailers,False
+1353,Man Se,MANG.DE^I21,DE0005937007,4295869228,Xetra,Industrials,Industrial Goods,True
+1354,Man Se,MANG_p.DE^I21,DE0005937031,4295869228,Xetra,Industrials,Industrial Goods,True
+1355,Vitesco Technologies Group AG,VTSCn.DE^J24,DE000VTSC017,5076167517,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,True
+1356,Mutares SE & Co KgaA,MUXG.DE,DE000A2NB650,5071525058,Xetra,Financials,Banking & Investment Services,False
+1357,The Social Chain AG,PU11n.DE^J23,DE000A1YC996,5035938233,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+1358,Daimler Truck Holding AG,DTGGe.DE,DE000DTR0CK8,5081377210,Xetra,Industrials,Industrial Goods,False
+1359,Adtran Networks SE,ADVVv.DE^G22,DE000A3MQBT1,5037659154,Xetra,Technology,Technology Equipment,True
+1360,Adtran Networks SE,ADVG.DE,DE0005103006,5037659154,Xetra,Technology,Technology Equipment,False
+1361,Walter Bau-AG,WTBG_p.F^B22,DE0007477531,4295869153,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+1362,Walter Bau-AG,WTBG.F^B22,DE0007477507,4295869153,Frankfurt Stock Exchange,Industrials,Industrial & Commercial Services,True
+1363,Easy Software AG,ESYGn.DE^B22,DE000A2YN991,4295869778,Xetra,Technology,Software & IT Services,True
+1364,Hornbach Baumarkt AG,HBMG.DE^C22,DE0006084403,5000069564,Xetra,Consumer Cyclicals,Retailers,True
+1365,Dr Ing hc F Porsche AG,P911_p.DE,DE000PAG9113,5000047249,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,False
+1366,CECONOMY AG,CEC1_p.DE^F22,DE0007257537,4295868692,Xetra,Consumer Cyclicals,Retailers,True
+1367,ROY Asset Holding SE,RY8.F^G26,DE000RYSE888,5045881482,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+1368,Silgan Holdings Inc.,SLGN.N,US8270481091,4295907922,New York Stock Exchange,Basic Materials,Applied Resources,False
+1369,Stabilus SE,STM1.DE,DE000STAB1L8,5083787953,Xetra,Industrials,Industrial Goods,False
+1370,KUKA SE & Co KgaA,KU2G.DE^K22,DE0006204407,4295869083,Xetra,Industrials,Industrial Goods,True
+1371,Verallia Deutschland AG,OLGG.F^L22,DE0006851603,4295868700,Frankfurt Stock Exchange,Basic Materials,Applied Resources,True
+1372,a.a.a. allgemeine anlageverwaltung AG,SWOG.F^L22,DE0007228009,4295869347,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+1373,IONOS Group SE,IOSn.DE,DE000A3E00M1,5056437299,Xetra,Technology,Software & IT Services,False
+1374,thyssenkrupp nucera AG & Co KgaA,NCH2.DE,DE000NCA0001,5046056690,Xetra,Industrials,Industrial & Commercial Services,False
+1375,Ymos AG,YMSG.F^I23,DE0007847303,4295869581,Frankfurt Stock Exchange,Real Estate,Real Estate,True
+1376,Leoni AG,LEOGn.DE^H23,DE0005408884,4295869612,Xetra,Industrials,Industrial Goods,True
+1377,Schumag AG,SCMG.F^I23,DE0007216707,4295868721,Frankfurt Stock Exchange,Industrials,Industrial Goods,True
+1378,SCHOTT Pharma AG & Co. KGaA,1SXP.DE,DE000A3ENQ51,5083203056,Xetra,Healthcare,Healthcare Services & Equipment,False
+1379,Adler Real Estate GmbH,ADLG.DE^J23,DE0005008007,5065356748,Xetra,Real Estate,Real Estate,True
+1380,GERRY WEBER International GmbH,GWI2k.DE^L23,DE000A255G36,4295868914,Xetra,Consumer Cyclicals,Cyclical Consumer Products,True
+1381,RENK Group AG,R3NK.DE,DE000RENK730,5079916017,Xetra,Industrials,Industrial Goods,False
+1382,Software AG,SOWGn.DE^B24,DE000A2GS401,4295869822,Xetra,Technology,Software & IT Services,True
+1383,Altech Advanced Materials AG,AMAk.DE^A26,DE000A41YD99,5071163924,Xetra,Basic Materials,Applied Resources,True
+1384,Altech Advanced Materials AG,AMA0k.F,DE000A41YD99,5071163924,Frankfurt Stock Exchange,Basic Materials,Applied Resources,False
+1385,Douglas AG,DOUn.DE,DE000BEAU1Y4,5086700595,Xetra,Consumer Cyclicals,Retailers,False
+1386,Creditshelf AG,CSQ0.F,DE000A41YEG8,5064639418,Frankfurt Stock Exchange,Financials,Banking & Investment Services,False
+1387,Gigaset AG,GGS.BE^A26,DE0005156004,4295869037,Berlin Stock Exchange,Technology,Technology Equipment,True
+1388,MorphoSys AG,MORG.DE^H24,DE0006632003,4295869785,Xetra,Healthcare,Pharmaceuticals & Medical Research,True
+1389,Schaeffler AG,SHA0n.DE,DE000SHA0100,5045949737,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,False
+1390,Pentixapharm Holding AG,PTPn.DE,DE000A40AEG0,5087699081,Xetra,Healthcare,Pharmaceuticals & Medical Research,False
+1391,Springer Nature AG & Co KgaA,SPGG.DE,DE000SPG1003,5063729459,Xetra,Consumer Cyclicals,Cyclical Consumer Services,False
+1392,Formycon AG,FYB.DE,DE000A1EWVY8,5037846418,Xetra,Healthcare,Pharmaceuticals & Medical Research,False
+1393,artnet GmbH,AYDGn.DE^H25,DE000A1K0375,4295869834,Xetra,Consumer Cyclicals,Cyclical Consumer Services,True
+1394,Lenovo Computer AG,MDNG.DE^A25,DE0006605009,4295869749,Xetra,Technology,Technology Equipment,True
+1395,Elbe BidCo GmbH,ECVG.DE^B25,DE0006095003,5087114213,Xetra,Financials,Banking & Investment Services,True
+1396,Biotest Gmbh and Co. KgaA,BIOG_p.DE^F25,DE000A41YE49,4295868772,Xetra,Healthcare,Pharmaceuticals & Medical Research,True
+1397,Biotest Gmbh and Co. KgaA,BIOG.DE^F25,DE000A41YE56,4295868772,Xetra,Healthcare,Pharmaceuticals & Medical Research,True
+1398,Aumovio Se,AMV0n.DE,DE000AUM0V10,5096087380,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,False
+1399,Path2 Hydrogen AG,PTHH.DE,DE000A1A6WB2,5059956752,Xetra,Technology,Financial Technology (Fintech) & Infrastructure,False
+1400,Plan Optik AG,P4OG.DE,DE000A0HGQS8,4295870230,Xetra,Technology,Technology Equipment,False
+1401,TKMS AG & Co KgaA,TKMS.DE,DE000TKMS001,5086572331,Xetra,Industrials,Industrial Goods,False
+1402,Ottobock SE & Co KgaA,OBCK.DE,DE000BCK2223,5065322334,Xetra,Healthcare,Healthcare Services & Equipment,False
+1403,Vincorion Se,V1NC.DE,DE000VNC0014,5081490723,Xetra,Industrials,Industrial Goods,False
+1404,CENIT AG,CSHG.DE,DE0005407100,4295869467,Xetra,Technology,Software & IT Services,False
